@@ -24,7 +24,6 @@ For added packing-speed, there's a section per bag
 
 ## The carry-on
 
-- [ ] Additional battery for phone
 - [ ] Bank identifier
 - [ ] Book / Kindle
 - [ ] Chewing gum to pop ears
@@ -41,6 +40,24 @@ For added packing-speed, there's a section per bag
 - [ ] Present for host
 - [ ] Sunglasses
 - [ ] Tablet
+- [ ] Bag for Stroller
+- [ ] Bag for car seat
+- [ ] Cash
+- [ ] Snacks in tupperware containers (cheese sticks, pears, healthy chips or pretzels)
+- [ ] Bag for stroller
+- [ ] Tiny charger
+- [ ] iPhone cables
+- [ ] Bag for car seat
+- [ ] Cash 
+- [ ] Neck rest for sleeping
+- [ ] Earplugs 
+- [ ] Headphones 
+- [ ] Sunglasses 
+- [ ] iPad
+- [ ] Apple Headphone Adapter
+- [ ] Toilet bag ( Bathroom bag, Necessaire ) 
+- [ ] Heartburn medicine
+- [ ] Other medicines
 
 ## The suitcase
 
@@ -69,6 +86,28 @@ For added packing-speed, there's a section per bag
 - [ ] {num_days} / 3 Sweaters
 - [ ] {num_days} / 3 Trousers
 - [ ] {num_days} / 7 Towels
+- [ ] Sound machine
+- [ ] Monitor
+- [ ] Kindle
+- [ ] Socks
+- [ ] Underwear
+- [ ] Sunscreen for Hammy, Sunscreen for Dad.
+- [ ] Watch
+- [ ] Sunglasses
+- [ ] Henry’s pillow
+- [ ] Underwear 
+- [ ] T-shirts 
+- [ ] Socks 
+- [ ] Sweater 
+- [ ] Hat
+- [ ] Shoes
+- [ ] Sandals
+- [ ] Pajamas
+- [ ] Bandana
+- [ ] Small extra backpack ( Knap sack, Day pack ) 
+- [ ] sealable baggies
+- [ ] New shoes
+
 
 ## The toiletry bag
 
@@ -85,6 +124,12 @@ For added packing-speed, there's a section per bag
 - [ ] Toothbrush & paste
 - [ ] Transparent plastic bag for small liquids
 - [ ] Vitaminsuplements
+
+## Baby stuff
+
+- [ ] Car seat
+- [ ] Stroller
+- [ ] Flight and rental papers
 
 ## Before I leave
 
@@ -121,3 +166,122 @@ Licensed under MIT: [http://kvz.io/licenses/LICENSE-MIT](http://kvz.io/licenses/
 
 Edit over at at https://github.com/kvz/packing-list/  
 Discuss over at https://news.ycombinator.com/item?id=5518382
+
+
+
+Packing for Hawaii
+
+Sunscreen for Hammy, Sunscreen for Dad.
+X Clothes for wedding
+X Shoes belt for wedding
+X Stroller
+X Car seat
+X Car seat cover
+X Stroller
+X Stroller cover
+X Backpack
+Snacks in tupperware containers (cheese sticks, pears, healthy chips or pretzels)
+Sound machine
+Monitor
+Kindle
+Socks
+Underwear
+Bag for stroller. 
+Bag for car seat
+Car seat
+Stroller
+Tiny charger
+iPhone cables
+Watch
+Sunglasses
+Henry’s pillow
+
+Underwear 
+T-shirts 
+X Shorts 
+Socks 
+X Pants
+Sweater 
+Hat
+Shoes
+Sandals
+X Belt 
+X Swimsuit
+Pajamas
+Beach pants 
+Watch
+Bandana
+
+Suit
+White Shirt
+Black tie
+Dress Shoes
+Dress Sock
+Dress Belt
+
+Money and documents
+Insurance certificate ( Health Insurance card ) 
+Passport
+Cash 
+Credit/ATM cards ( Visa, Eurocard/Mastercard, American Express etc ) 
+Driver's license 
+Address list (with phone numbers and email addresses) 
+
+For carrying money and documents
+
+Wallet 
+Tickets
+Airline tickets 
+Maps
+Kindle
+  - Novels
+  - Guidebook 
+Magazine for Airplane
+
+Equipment
+Small extra backpack ( Knap sack, Day pack ) 
+Suitcase 
+Things for sleeping
+Earplugs 
+Sunglasses 
+sewing kit
+sealable baggies
+laundry soap
+
+
+
+Hygiene
+Toilet bag ( Bathroom bag, Necessaire ) 
+Razor 
+Toothbrush ( Electric toothbrush with charger ) 
+Toothpaste 
+Deodorant 
+Towel 
+Clothes pegs ( Clothes pins ) 
+Laundry bag 
+Qtips 
+
+General health items
+Condoms 
+Insect repellent 
+Band-Aids ( Plaster ) 
+Water bottle 
+Chewing gum 
+Pills, tablets and medicines
+Pain killers 
+Allergy pills ( Anti-histamines ) 
+
+General electrical items
+Cell Phone ( Mobile Phone, Cellular Phone ) 
+Charger to Cell Phone 
+Computer 
+Watch 
+Camera 
+Batteries
+Memory cards 
+Battery charger for camera 
+Generic photo equipment
+Camera bag 
+Tripod 
+iPhone (preloaded w/ music)
+Headphones 
