@@ -8,20 +8,6 @@ so pretty easy to fork & personalise for your next trip.
 
 It list has evolved over the years and is **suited for city trips, conferences and <=10 day holidays**.
 
-I'm open sourcing this so you too can enjoy efficient packing and
-the peace of mind that comes with that : )
-
-## Tips
-
-- Keep a spare of all toiletry items so you can just keep that bag in your suitcase.
-- Nothing beats [printing](https://raw.github.com/kvz/packing-list/master/README.md) 
-and checking these with a pen ; )
-- Calculations are rounded up : )
-- If you miss anything, fork it.  
-- If you think others will miss it too, send a pull request!
-
-For added packing-speed, there's a section per bag
-
 ## The carry-on
 
 - [ ] Bank identifier
@@ -45,7 +31,7 @@ For added packing-speed, there's a section per bag
 - [ ] Cash
 - [ ] Snacks in tupperware containers (cheese sticks, pears, healthy chips or pretzels)
 - [ ] Bag for stroller
-- [ ] Tiny charger
+- [ ] Power Bank
 - [ ] iPhone cables
 - [ ] Bag for car seat
 - [ ] Cash 
@@ -70,8 +56,6 @@ For added packing-speed, there's a section per bag
 - [ ] Gym outfit
 - [ ] Party-trousers
 - [ ] Plastic bag for loundry / to sit on wet stuff
-- [ ] SLR / Camera
-- [ ] Coffee Gear: aeropress. filters. grinder. cup. {num_days} * {num_people} * {shots_per_day:-3} * 12grams of beans
 - [ ] Power cords extension socket with USB ports + Universeral Power Adapter
 - [ ] Car power adapter USB
 - [ ] Speakers
@@ -87,14 +71,12 @@ For added packing-speed, there's a section per bag
 - [ ] {num_days} / 3 Trousers
 - [ ] {num_days} / 7 Towels
 - [ ] Sound machine
-- [ ] Monitor
 - [ ] Kindle
 - [ ] Socks
 - [ ] Underwear
 - [ ] Sunscreen for Hammy, Sunscreen for Dad.
 - [ ] Watch
 - [ ] Sunglasses
-- [ ] Henry’s pillow
 - [ ] Underwear 
 - [ ] T-shirts 
 - [ ] Socks 
@@ -107,7 +89,12 @@ For added packing-speed, there's a section per bag
 - [ ] Small extra backpack ( Knap sack, Day pack ) 
 - [ ] sealable baggies
 - [ ] New shoes
-
+- [ ] Wedding Clothing
+- [ ] Travel backpack
+- [ ] Monitor, charger, camera, charger
+- [ ] Other baby proofing stuff
+- [ ] Henry's Pillow
+- [ ] Suit, White Shirt, Black Tie, Dress Shoes, Dress Socks, Dress Belt
 
 ## The toiletry bag
 
@@ -124,12 +111,20 @@ For added packing-speed, there's a section per bag
 - [ ] Toothbrush & paste
 - [ ] Transparent plastic bag for small liquids
 - [ ] Vitaminsuplements
+- [ ] Sewing Kit
+- [ ] Laundry Soap
+- [ ] Sealable Baggies
+- [ ] Razor
+- [ ] Chewing Gum
+- [ ] Pill bottle
+- [ ] Insect repellent
 
 ## Baby stuff
 
 - [ ] Car seat
 - [ ] Stroller
 - [ ] Flight and rental papers
+
 
 ## Before I leave
 
@@ -168,120 +163,3 @@ Edit over at at https://github.com/kvz/packing-list/
 Discuss over at https://news.ycombinator.com/item?id=5518382
 
 
-
-Packing for Hawaii
-
-Sunscreen for Hammy, Sunscreen for Dad.
-X Clothes for wedding
-X Shoes belt for wedding
-X Stroller
-X Car seat
-X Car seat cover
-X Stroller
-X Stroller cover
-X Backpack
-Snacks in tupperware containers (cheese sticks, pears, healthy chips or pretzels)
-Sound machine
-Monitor
-Kindle
-Socks
-Underwear
-Bag for stroller. 
-Bag for car seat
-Car seat
-Stroller
-Tiny charger
-iPhone cables
-Watch
-Sunglasses
-Henry’s pillow
-
-Underwear 
-T-shirts 
-X Shorts 
-Socks 
-X Pants
-Sweater 
-Hat
-Shoes
-Sandals
-X Belt 
-X Swimsuit
-Pajamas
-Beach pants 
-Watch
-Bandana
-
-Suit
-White Shirt
-Black tie
-Dress Shoes
-Dress Sock
-Dress Belt
-
-Money and documents
-Insurance certificate ( Health Insurance card ) 
-Passport
-Cash 
-Credit/ATM cards ( Visa, Eurocard/Mastercard, American Express etc ) 
-Driver's license 
-Address list (with phone numbers and email addresses) 
-
-For carrying money and documents
-
-Wallet 
-Tickets
-Airline tickets 
-Maps
-Kindle
-  - Novels
-  - Guidebook 
-Magazine for Airplane
-
-Equipment
-Small extra backpack ( Knap sack, Day pack ) 
-Suitcase 
-Things for sleeping
-Earplugs 
-Sunglasses 
-sewing kit
-sealable baggies
-laundry soap
-
-
-
-Hygiene
-Toilet bag ( Bathroom bag, Necessaire ) 
-Razor 
-Toothbrush ( Electric toothbrush with charger ) 
-Toothpaste 
-Deodorant 
-Towel 
-Clothes pegs ( Clothes pins ) 
-Laundry bag 
-Qtips 
-
-General health items
-Condoms 
-Insect repellent 
-Band-Aids ( Plaster ) 
-Water bottle 
-Chewing gum 
-Pills, tablets and medicines
-Pain killers 
-Allergy pills ( Anti-histamines ) 
-
-General electrical items
-Cell Phone ( Mobile Phone, Cellular Phone ) 
-Charger to Cell Phone 
-Computer 
-Watch 
-Camera 
-Batteries
-Memory cards 
-Battery charger for camera 
-Generic photo equipment
-Camera bag 
-Tripod 
-iPhone (preloaded w/ music)
-Headphones 
