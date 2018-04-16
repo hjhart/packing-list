@@ -4,7 +4,7 @@ It's in
 [Github Task List flavored](https://github.com/blog/1375-task-lists-in-gfm-issues-pulls-comments)
 markdown and 
 [MIT Licensed](http://kvz.io/licenses/LICENSE-MIT), 
-so pretty easy to fork & personalise for your next trip.
+so pretty easy to fork & personalise for your next trip. Nothing beats [printing](https://raw.github.com/kvz/packing-list/master/README.md)
 
 It list has evolved over the years and is **suited for city trips, conferences and <=10 day holidays**.
 
