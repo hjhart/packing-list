@@ -18,7 +18,6 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 
 - [ ] Book / Kindle
 - [ ] Copy of passport, alarm numbers
-- [ ] Earplugs to defend against children
 - [ ] {hours_flight} / 2 Granola bar
 - [ ] Laptop
 - [ ] Passport
@@ -37,8 +36,6 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 - [ ] iPad
 - [ ] Apple Headphone Adapter
 - [ ] Toilet bag ( Bathroom bag, Necessaire ) 
-- [ ] Heartburn medicine
-- [ ] Other medicines
 
 ## The suitcase
 
