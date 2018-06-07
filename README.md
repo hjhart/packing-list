@@ -4,9 +4,6 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 
 ## When I leave
 
-- [ ] Give Henry Benadryl
-- [ ] Grab Henry's Blanket & Pillow
-- [ ] Pack the car seat in the car seat bag
 - [ ] Pack food from fridge into backpack
 - [ ] Pack iPad and laptop
 - [ ] Get some foreign cash
@@ -61,7 +58,7 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 - [ ] {num_days} / 3 Trousers
 - [ ] {num_days} / 7 Towels
 - [ ] Sound machine
-- [ ] Sunscreen for Hammy
+- [ ] Sunscreen
 - [ ] Watch
 - [ ] Shoes
 - [ ] Bandana
@@ -87,18 +84,9 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 - [ ] Pill bottle
 - [ ] Insect repellent
 
-## Baby stuff
-
-- [ ] Car seat
-- [ ] Stroller
-- [ ] Flight and rental papers
-- [ ] Monitor, charger, camera, charger
-- [ ] Other baby proofing stuff
-- [ ] Henry's Pillow
-- [ ] Henry's Blanket
-
 ## Before I leave
 
+- [ ] Flight and rental papers
 - [ ] Charge additional phone battery / Kindle / Tablet / Camera
 - [ ] Check bank account balance
 - [ ] Check insurance
