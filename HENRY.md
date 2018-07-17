@@ -27,6 +27,7 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/HENRY
 - [ ] Life vest
 - [ ] Water Wings
 - [ ] Swim trunks
+- [ ] Floaty toys
 
 ## For the car
 
