@@ -51,3 +51,4 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/HENRY
 - [ ] Extension cords
 - [ ] Child proofing bag
 - [ ] Black out "curtains"
+- [ ] Method of affixing black out curtains
