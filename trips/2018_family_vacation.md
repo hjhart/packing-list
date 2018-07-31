@@ -4,6 +4,8 @@
 # Toys to bring
 
 * Blow up toys to float down the wenatchee
+* Blow up motor
+*
 
 ## Food Prep stuff to Bring
 
