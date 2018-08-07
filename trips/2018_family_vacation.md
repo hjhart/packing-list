@@ -1,11 +1,14 @@
 # Family Vacation (Leavenworth)
 ## 12042 Bretz Drive, Leavenworth, WA
 
-# Toys to bring
+# Misc to Bring
 
-* Blow up toys to float down the wenatchee
+* Innertube
 * Blow up motor
-*
+* Super soakers
+* Bookmarks
+* Ukelele
+* "Water Shoes"
 
 ## Food Prep stuff to Bring
 
@@ -18,6 +21,7 @@
 * Salt & Pepper shakers for corn
 * Basket with some tea towels for tortillas
 * Thin metal spatula
+* Garlic press
 
 ### Pre-Prep work for food
 
