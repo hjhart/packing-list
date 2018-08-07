@@ -2,6 +2,8 @@
 
 ## 12042 Bretz Drive, Leavenworth, WA
 
+Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/trips/2018_family_vacation.md)! **Sutted for city trips, conferences and <=10 day holidays**.
+
 # Misc to Bring
 
 * [ ] Innertube
@@ -104,6 +106,7 @@
 * [ ] pickled red onions
 * [ ] Chives
 * [ ] Bacon
+* [ ] Sausages for the girls
 
 #### Bags
 
