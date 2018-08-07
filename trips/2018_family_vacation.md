@@ -1,34 +1,35 @@
 # Family Vacation (Leavenworth)
+
 ## 12042 Bretz Drive, Leavenworth, WA
 
 # Misc to Bring
 
-* Innertube
-* Blow up motor
-* Super soakers
-* Bookmarks
-* Ukelele
-* "Water Shoes"
+* [ ] Innertube
+* [ ] Blow up motor
+* [ ] Super soakers
+* [ ] Bookmarks
+* [ ] Ukelele
+* [ ] "Water Shoes"
 
 ## Food Prep stuff to Bring
 
-* Thermometer
-* Nice knife for cutting
-* Half / Quarter Sheets
-* Giant bowl for mixing potatoes with oil
-* Fine-mesh strainer
-* Butter dish
-* Salt & Pepper shakers for corn
-* Basket with some tea towels for tortillas
-* Thin metal spatula
-* Garlic press
+* [ ] Thermometer
+* [ ] Nice knife for cutting
+* [ ] Half / Quarter Sheets
+* [ ] Giant bowl for mixing potatoes with oil
+* [ ] Fine-mesh strainer
+* [ ] Butter dish
+* [ ] Salt & Pepper shakers for corn
+* [ ] Basket with some tea towels for tortillas
+* [ ] Thin metal spatula
+* [ ] Garlic press
 
 ### Pre-Prep work for food
 
-* Precook bacon and make bacon bits
-* Precook the chorizo?
-* Test out the roasted potatoes recipe
-* Make pickled red onions
+* [ ] Precook bacon and make bacon bits
+* [ ] Precook the chorizo?
+* [ ] Test out the roasted potatoes recipe
+* [ ] Make pickled red onions
 
 ### Dinner
 
@@ -46,11 +47,10 @@
 
 ### Prep work for Dinner
 
-* Shuck corn on the cob
-* Crack asparagus ends off
-* Salt + P asparagus, drizzle with glaze
-* Make rice pilaf
-
+* [ ] Shuck corn on the cob
+* [ ] Crack asparagus ends off
+* [ ] Salt + P asparagus, drizzle with glaze
+* [ ] Make rice pilaf
 
 ### Breakfast
 
@@ -76,48 +76,48 @@
 
 ### Prep work for Breakfast
 
-* Cut rosemary, Chives
-* Boil Taters
-* Cook oil
-* Put out cheese
-* Put out bacon bits
-* Put out sauce
-* Put out pickled reds
-* Put out hot sauces
-* Cook eggs
-* Warm tortillas
-* Put out tortillas (warm tortillas?)
+* [ ] Cut rosemary, Chives
+* [ ] Boil Taters
+* [ ] Cook oil
+* [ ] Put out cheese
+* [ ] Put out bacon bits
+* [ ] Put out sauce
+* [ ] Put out pickled reds
+* [ ] Put out hot sauces
+* [ ] Cook eggs
+* [ ] Warm tortillas
+* [ ] Put out tortillas (warm tortillas?)
 
 
 ### Packing
 
 #### Cooler
 
-* Lemongrass chicken
-* Asparagus (2 bushels)
-* Butter
-* Duck fat
-* Bacon bits
-* Eggs (24 eggs)
-* sour cream
-* Grated cheese from bag
-* pickled red onions
-* Chives
-* Bacon
+* [ ] Lemongrass chicken
+* [ ] Asparagus (2 bushels)
+* [ ] Butter
+* [ ] Duck fat
+* [ ] Bacon bits
+* [ ] Eggs (24 eggs)
+* [ ] sour cream
+* [ ] Grated cheese from bag
+* [ ] pickled red onions
+* [ ] Chives
+* [ ] Bacon
 
 #### Bags
 
-* Salt / Pepper
-* Glaze
-* Olive Oil
-* Rice Pilaf
-* Flour tortillas (24)
-* Lawry's seasoning salt
-* hot sauce
-* salsa
-* Avocado
-* Potatoes
-* Rosemary
-* Garlic
-* Corn on the Cob
-* baking soda
+* [ ] Salt / Pepper
+* [ ] Glaze
+* [ ] Olive Oil
+* [ ] Rice Pilaf
+* [ ] Flour tortillas (24)
+* [ ] Lawry's seasoning salt
+* [ ] hot sauce
+* [ ] salsa
+* [ ] Avocado
+* [ ] Potatoes
+* [ ] Rosemary
+* [ ] Garlic
+* [ ] Corn on the Cob
+* [ ] baking soda
