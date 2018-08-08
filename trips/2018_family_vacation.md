@@ -142,6 +142,9 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/trips
 * [ ] Chives
 * [ ] Bacon
 * [ ] Sausages for the girls
+* [ ] 1 lb extra melt
+* [ ] 1/4 lb chorizo
+* [ ] bushel of cilantro
 
 #### Bags
 
@@ -159,3 +162,7 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/trips
 * [ ] Garlic
 * [ ] Corn on the Cob
 * [ ] baking soda
+* [ ] 1 can rotel
+* [ ] 3 cloves garlic
+* [ ] 1/2 onion
+* [ ] cumin
