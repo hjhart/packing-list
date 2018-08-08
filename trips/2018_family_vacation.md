@@ -4,6 +4,30 @@
 
 Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/trips/2018_family_vacation.md)! **Sutted for city trips, conferences and <=10 day holidays**.
 
+# Car packing
+
+## Top of Car
+
+* [ ] Chairs
+* [ ] Pack 'n' Play
+* [ ] James' bag
+* [ ] Britt's bag
+* [ ] Innertube
+
+## Trunk
+
+* [ ] Cooler
+* [ ] Henry's Bag
+* [ ] Food bin
+* [ ] Toy bin
+* [ ] 
+
+## Back of Car
+
+* [ ] James' Backpack
+* [ ] Henry's Snacks
+* [ ] 
+
 # Misc to Bring
 
 * [ ] Innertube
@@ -89,6 +113,17 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/trips
 * [ ] Cook eggs
 * [ ] Warm tortillas
 * [ ] Put out tortillas (warm tortillas?)
+
+
+### Queso Dip
+
+* 1 can rotel
+* 3 cloves garlic
+* 1/2 onion
+* cumin
+* 1 lb extra melt
+* 1/4 lb chorizo
+* bushel of cilantro
 
 
 ### Packing
