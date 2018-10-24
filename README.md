@@ -20,6 +20,8 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 - [ ] Passport
 - [ ] Pen & Paper
 - [ ] Phone charger
+- [ ] Premier Pass
+- [ ] Business Cards
 - [ ] Present for host
 - [ ] Sunglasses
 - [ ] Bag for Stroller
@@ -33,6 +35,8 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 - [ ] iPad
 - [ ] Apple Headphone Adapter
 - [ ] Toilet bag ( Bathroom bag, Necessaire ) 
+- [ ] Apple Headphones
+- [ ] Nintendo Switch, gear, games
 
 ## The suitcase
 
