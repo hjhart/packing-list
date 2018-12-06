@@ -5,18 +5,16 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 ## When I leave
 
 - [ ] Pack food from fridge into backpack
-- [ ] Pack iPad and laptop
+- [ ] Pack iPad (laptop too?)
 - [ ] Get some foreign cash
-- [ ] Unplug chords
 - [ ] Lock all windows/doors
-- [ ] Kill temperature
 
 ## The carry-on
 
 - [ ] Book / Kindle
 - [ ] Copy of passport, alarm numbers
 - [ ] {hours_flight} / 2 Granola bar
-- [ ] Laptop
+- [ ] iPad
 - [ ] Passport
 - [ ] Pen & Paper
 - [ ] Phone charger
@@ -31,17 +29,16 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 - [ ] Power Bank
 - [ ] iPhone cables
 - [ ] Neck rest for sleeping
-- [ ] Headphones 
+- [ ] Headphones
 - [ ] iPad
 - [ ] Entry keys for vacation house
 - [ ] Apple Headphone Adapter
-- [ ] Toilet bag ( Bathroom bag, Necessaire ) 
+- [ ] Toilet bag ( Bathroom bag, Necessaire )
 - [ ] Apple Headphones
-- [ ] Nintendo Switch, gear, games
+- [ ] Nintendo Switch, dock, controllers, games
 
 ## The suitcase
 
-- [ ] Backpack
 - [ ] Beach towel
 - [ ] Belt
 - [ ] Flipflops
@@ -67,7 +64,7 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 - [ ] Watch
 - [ ] Shoes
 - [ ] Bandana
-- [ ] Small extra backpack ( Knap sack, Day pack ) 
+- [ ] Small extra backpack ( Knap sack, Day pack )
 - [ ] Wedding Clothing
 - [ ] Suit, White Shirt, Black Tie, Dress Shoes, Dress Socks, Dress Belt
 
@@ -93,13 +90,12 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 
 - [ ] Flight and rental papers
 - [ ] Charge additional phone battery / Kindle / Tablet / Camera
-- [ ] Check bank account balance
 - [ ] Check insurance
 - [ ] Check public transportation (issues on) route
 - [ ] Check weather
 - [ ] Check time difference
 - [ ] Check-in online, write down times & Terminal nr. Use http://seatguru.com to find the best seats for your flightnr.
-- [ ] Cleanup wallet. Check if **creditcard is in there** and you know its PIN code.
+- [ ] Cleanup wallet. Check if **creditcard, ID is in there** and you know its PIN code.
 - [ ] Clip nails, so you don't have to abroad
 - [ ] Download offline maps for destination (via e.g. Nokia Here or Offmaps, Google maps now also supports offline downloads)
 - [ ] Enable ATM access in foreign country if needed

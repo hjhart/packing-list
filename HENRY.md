@@ -19,6 +19,7 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/HENRY
 - [ ] Underwear
 - [ ] Wipes
 - [ ] Sunscreen
+- [ ] Shampoo
 - [ ] Stroller
 
 ## For the pool
@@ -28,6 +29,11 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/HENRY
 - [ ] Water Wings
 - [ ] Swim trunks
 - [ ] Floaty toys
+
+## For fun
+
+- [ ] Bicycle, Helmet
+- [ ] Toys
 
 ## For the car
 
@@ -46,9 +52,5 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/HENRY
 - [ ] Henry's Pillow
 - [ ] Henry's Blanket
 - [ ] Pack 'n' Play, mattress, sheets, extra sheets
-- [ ] Monitor, charger, camera, charger
-- [ ] Sound machine
-- [ ] Extension cords
 - [ ] Child proofing bag
-- [ ] Black out "curtains"
-- [ ] Method of affixing black out curtains
+- [ ] Black out "curtains", and mounting hardware
