@@ -12,7 +12,7 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 ## The carry-on
 
 - [ ] Book / Kindle
-- [ ] Copy of passport, alarm numbers
+- [ ] Copy of passport
 - [ ] {hours_flight} / 2 Granola bar
 - [ ] iPad
 - [ ] Passport
@@ -22,20 +22,17 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 - [ ] Business Cards
 - [ ] Present for host
 - [ ] Sunglasses
-- [ ] Bag for Stroller
-- [ ] Bag for car seat
 - [ ] Cash
-- [ ] Snacks in tupperware containers
-- [ ] Power Bank
 - [ ] iPhone cables
 - [ ] Neck rest for sleeping
 - [ ] Headphones
-- [ ] iPad
 - [ ] Entry keys for vacation house
 - [ ] Apple Headphone Adapter
-- [ ] Toilet bag ( Bathroom bag, Necessaire )
+- [ ] Toilet bag
 - [ ] Apple Headphones
 - [ ] Nintendo Switch, dock, controllers, games
+- [ ] Vape, charger, pods
+- [ ] Cable Case
 
 ## The suitcase
 
@@ -45,8 +42,6 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 - [ ] Gloves / Hat
 - [ ] Gym outfit
 - [ ] Party-trousers
-- [ ] Plastic bag for loundry / to sit on wet stuff
-- [ ] Cable Case
 - [ ] Speakers
 - [ ] Sunscreen
 - [ ] Swimming shorts
@@ -59,8 +54,6 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 - [ ] {num_days} / 3 Sweaters
 - [ ] {num_days} / 3 Trousers
 - [ ] {num_days} / 7 Towels
-- [ ] Sound machine
-- [ ] Sunscreen
 - [ ] Watch
 - [ ] Shoes
 - [ ] Bandana
@@ -71,6 +64,7 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 ## The toiletry bag
 
 - [ ] Deodorant 100ml
+- [ ] Sunscreen
 - [ ] Earplugs
 - [ ] Ibuprofen
 - [ ] Lip balm
@@ -78,13 +72,12 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 - [ ] Heartburn medicine
 - [ ] Toothbrush & paste
 - [ ] Transparent plastic bag for small liquids
-- [ ] Sewing Kit
-- [ ] Laundry Soap
 - [ ] Sealable Baggies
 - [ ] Razor
 - [ ] Chewing Gum
 - [ ] Pill bottle
 - [ ] Insect repellent
+- [ ] Plastic bag for wet laundry
 
 ## Before I leave
 
@@ -97,12 +90,12 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 - [ ] Check-in online, write down times & Terminal nr. Use http://seatguru.com to find the best seats for your flightnr.
 - [ ] Cleanup wallet. Check if **creditcard, ID is in there** and you know its PIN code.
 - [ ] Clip nails, so you don't have to abroad
-- [ ] Download offline maps for destination (via e.g. Nokia Here or Offmaps, Google maps now also supports offline downloads)
+- [ ] Download offline maps for destination (via Google Maps offline maps)
 - [ ] Enable ATM access in foreign country if needed
 - [ ] Find out what's a cheap way to have internet there
 - [ ] Save favorite music offline. Don't wanna use up all that country's bandwith.
 - [ ] Notify neighbors that you'll be gone
 - [ ] Shave, so you don't have to abroad
-- [ ] Take care of pending (E)Mail. Set vacation responder. Make sure collegues know what's what
+- [ ] Take care of pending email. Set vacation responder. Make sure collegues know what's what
 - [ ] Water plants, arrange for pet babysitters
 - [ ] Weigh bags if in doubt. Make sure Carry-on still fits inside luggage when not checking in any.

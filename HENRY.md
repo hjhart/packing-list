@@ -39,6 +39,8 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/HENRY
 
 - [ ] iPad
 - [ ] Car seat
+- [ ] Bag for Stroller
+- [ ] Bag for car seat
 
 ## Food & Snacks
 
