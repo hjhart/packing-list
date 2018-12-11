@@ -81,6 +81,7 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 
 ## Before I leave
 
+- [ ] Give a spare key to whoever needs access to house
 - [ ] Flight and rental papers
 - [ ] Charge additional phone battery / Kindle / Tablet / Camera
 - [ ] Check insurance
