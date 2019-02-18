@@ -45,6 +45,7 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 - [ ] Speakers
 - [ ] Sunscreen
 - [ ] Swimming shorts
+- [ ] Sweat pants
 - [ ] Swiss knife with some tools
 - [ ] Umbrella
 - [ ] {num_days} * 1 Boxershorts
@@ -55,7 +56,7 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 - [ ] {num_days} / 3 Trousers
 - [ ] {num_days} / 7 Towels
 - [ ] Watch
-- [ ] Shoes
+- [ ] Shoes, Leather Shoes
 - [ ] Bandana
 - [ ] Small extra backpack ( Knap sack, Day pack )
 - [ ] Wedding Clothing
@@ -81,6 +82,8 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 
 ## Before I leave
 
+- [ ] Book car service
+- [ ] Pick up cash for car service
 - [ ] Give a spare key to whoever needs access to house
 - [ ] Flight and rental papers
 - [ ] Charge additional phone battery / Kindle / Tablet / Camera
@@ -98,5 +101,4 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 - [ ] Notify neighbors that you'll be gone
 - [ ] Shave, so you don't have to abroad
 - [ ] Take care of pending email. Set vacation responder. Make sure collegues know what's what
-- [ ] Water plants, arrange for pet babysitters
 - [ ] Weigh bags if in doubt. Make sure Carry-on still fits inside luggage when not checking in any.
