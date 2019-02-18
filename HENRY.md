@@ -45,9 +45,16 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/HENRY
 ## Food & Snacks
 
 - [ ] Peanut Butter Bars
-- [ ] Pouches
-- [ ] Juice
-- [ ] Fruit & Veggies
+- [ ] Popcorn
+- [ ] Blueberries
+- [ ] Muffin
+- [ ] Crackers / Cheese
+- [ ] Hard boiled egg
+- [ ] Trail mix
+- [ ] M&M's
+- [ ] Water Bottle
+
+This blog post is helpful: https://blog.tortugabackpacks.com/airplane-snacks/
 
 ## For sleeping
 
