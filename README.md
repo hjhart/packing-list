@@ -23,7 +23,6 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 - [ ] Present for host
 - [ ] Sunglasses
 - [ ] Cash
-- [ ] iPhone cables
 - [ ] Neck rest for sleeping
 - [ ] Headphones
 - [ ] Entry keys for vacation house
@@ -51,6 +50,7 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 - [ ] {num_days} * 1 Boxershorts
 - [ ] {num_days} * 1 Socks
 - [ ] {num_days} * 1 T-Shirts
+- [ ] {num_days} / 2 Undershirts
 - [ ] {num_days} / 3 Shorts
 - [ ] {num_days} / 3 Sweaters
 - [ ] {num_days} / 3 Trousers
