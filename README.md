@@ -15,7 +15,7 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 - [ ] Copy of passport
 - [ ] {hours_flight} / 2 Granola bar
 - [ ] iPad
-- [ ] Passport
+- [ ] Passport / Passport Card
 - [ ] Pen & Paper
 - [ ] Phone charger
 - [ ] Premier Pass
@@ -32,6 +32,7 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 - [ ] Nintendo Switch, dock, controllers, games
 - [ ] Vape, charger, pods
 - [ ] Cable Case
+- [ ] Backup Wallet (in case of robbery)
 
 ## The suitcase
 
