@@ -1,6 +1,6 @@
 # The Open Source Packing List
 
-Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/README.md)! **Sutted for city trips, conferences and <=10 day holidays**.
+Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/README.md)! **Suited for city trips, conferences and <=10 day holidays**.
 
 ## When I leave
 
@@ -41,6 +41,7 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 - [ ] Flipflops
 - [ ] Gloves / Hat
 - [ ] Gym outfit
+- [ ] Rain Jacket
 - [ ] Party-trousers
 - [ ] Speakers
 - [ ] Sunscreen
