@@ -21,6 +21,7 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/HENRY
 - [ ] Sunscreen
 - [ ] Shampoo
 - [ ] Stroller
+- [ ] Toys from [this list](https://www.liveandworkwell.com/en/member/article.8218.html)
 
 ## For the pool
 
