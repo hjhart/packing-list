@@ -22,6 +22,9 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/HENRY
 - [ ] Shampoo
 - [ ] Stroller
 - [ ] Toys from [this list](https://www.liveandworkwell.com/en/member/article.8218.html)
+- [ ] Toothbrush and toothpaste
+- [ ] Thermometer
+- [ ] Ibuprofen / Acetaminophen
 
 ## For the pool
 
