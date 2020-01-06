@@ -33,6 +33,7 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 - [ ] Vape, charger, pods
 - [ ] Cable Case
 - [ ] Backup Wallet (in case of robbery)
+- [ ] Roku Stick with Remote for media consumption
 
 ## The suitcase
 
