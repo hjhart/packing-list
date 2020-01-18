@@ -12,6 +12,7 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 ## The carry-on
 
 - [ ] Book / Kindle
+- [ ] Transit Pass for Destination
 - [ ] Copy of passport
 - [ ] {hours_flight} / 2 Granola bar
 - [ ] iPad
@@ -50,9 +51,9 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 - [ ] Sweat pants
 - [ ] Swiss knife with some tools
 - [ ] Umbrella
-- [ ] {num_days} * 1 Boxershorts
-- [ ] {num_days} * 1 Socks
-- [ ] {num_days} * 1 T-Shirts
+- [ ] {num_days} \* 1 Boxershorts
+- [ ] {num_days} \* 1 Socks
+- [ ] {num_days} \* 1 T-Shirts
 - [ ] {num_days} / 2 Undershirts
 - [ ] {num_days} / 3 Shorts
 - [ ] {num_days} / 3 Sweaters
