@@ -17,6 +17,10 @@
 - [ ] prescription medications
 - [ ] soap
 - [ ] toothbrush, toiletries
+- [ ] mobile charger
+- [ ] charging cables
+- [ ] iPad
+- [ ] night time books
 
 ## Food stuffs:
 
@@ -37,6 +41,7 @@
 - [ ] serrated knife, chopsticks
 - [ ] Food storage containers
 - [ ] extra bin for washing dishes
+- [ ] Coffee
 
 ## Clothes
 
