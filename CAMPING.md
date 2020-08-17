@@ -8,7 +8,7 @@
 - [ ] sleeping pads
 - [ ] repair kit
 - [ ] headlamps, flashlights
-- [ ] lantern 
+- [ ] lantern
 - [ ] Duct tape
 - [ ] pillows
 - [ ] Bug spray
@@ -21,6 +21,9 @@
 - [ ] charging cables
 - [ ] iPad
 - [ ] night time books
+- [ ] Eye shade and earplugs
+- [ ] Quick dry towel
+- [ ] Speaker
 
 ## Food stuffs:
 
@@ -42,6 +45,8 @@
 - [ ] Food storage containers
 - [ ] extra bin for washing dishes
 - [ ] Coffee
+- [ ] Pot scraper
+- [ ] Hand Rags
 
 ## Clothes
 
