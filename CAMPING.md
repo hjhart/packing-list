@@ -78,3 +78,14 @@
 - [ ] Projector, speaker, wires and cords for setup
 - [ ] Edibles
 - [ ] Alcohol
+
+## Food Ideas
+
+- [ ] Cantaloupe
+- [ ] Apples
+- [ ] Bagel / cream cheese
+- [ ] Potatoes o'brien
+- [ ] Hot dogs
+- [ ] Pirates boot, fruit snacks
+- [ ] Mac and cheese
+- [ ] Breakfast Burritos
