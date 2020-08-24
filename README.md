@@ -5,7 +5,9 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 ## When I leave
 
 - [ ] Pack food from fridge into backpack
-- [ ] Pack iPad (laptop too?)
+- [ ] Pack iPad
+- [ ] Pack laptop and charger
+- [ ] Grab watch charger
 - [ ] Get some foreign cash
 - [ ] Lock all windows/doors
 
@@ -27,14 +29,13 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 - [ ] Neck rest for sleeping
 - [ ] Headphones
 - [ ] Entry keys for vacation house
-- [ ] Apple Headphone Adapter
 - [ ] Toilet bag
-- [ ] Apple Headphones
 - [ ] Nintendo Switch, dock, controllers, games
-- [ ] Vape, charger, pods
+- [ ] Nicotine lozenges
 - [ ] Cable Case
 - [ ] Backup Wallet (in case of robbery)
-- [ ] Roku Stick with Remote for media consumption
+- [ ] Roku Stick with Remote
+- [ ] Masks
 
 ## The suitcase
 
@@ -45,7 +46,7 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 - [ ] Gym outfit
 - [ ] Rain Jacket
 - [ ] Party-trousers
-- [ ] Speakers
+- [ ] Sonos Speakers
 - [ ] Sunscreen
 - [ ] Swimming shorts
 - [ ] Sweat pants
@@ -65,6 +66,9 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 - [ ] Small extra backpack ( Knap sack, Day pack )
 - [ ] Wedding Clothing
 - [ ] Suit, White Shirt, Black Tie, Dress Shoes, Dress Socks, Dress Belt
+- [ ] Pillow
+- [ ] Slippers
+- [ ] Small backpack
 
 ## The toiletry bag
 
