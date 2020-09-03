@@ -58,6 +58,7 @@
 - [ ] extra layers for warmth
 - [ ] gloves
 - [ ] hats
+- [ ] sunglasses for Henry and Dad
 
 ## Other items:
 
