@@ -1,5 +1,13 @@
 # Camping Trip Packing list
 
+## Before Leaving
+
+- [ ] Grab Pillows
+- [ ] Grab iPad
+- [ ] Grab mobile charger / charging cables
+
+
+
 ## Campsite gear
 
 - [ ] Tent
@@ -12,8 +20,6 @@
 - [ ] Duct tape
 - [ ] pillows
 - [ ] Bug spray
-- [ ] Sunscreen
-- [ ] first-aid kit
 - [ ] prescription medications
 - [ ] soap
 - [ ] toothbrush, toiletries
@@ -25,6 +31,21 @@
 - [ ] Quick dry towel
 - [ ] Speaker
 
+## Backpack stuff
+
+- [ ] Water bottle
+- [ ] Snacks
+- [ ] Sunscreen(s)
+- [ ] Sunglasses
+- [ ] first-aid kit
+- [ ] Towel
+- [ ] Masks
+- [ ] Hand sanitizer
+- [ ] Wipes
+- [ ] Tissues
+- [ ] Fishing license?
+- [ ] Key to boat?
+
 ## Food stuffs:
 
 - [ ] Solo stove
@@ -34,19 +55,20 @@
 - [ ] Roasting sticks for marshmallows or hot dogs
 - [ ] Trash bags
 - [ ] Cooler
-- [ ] Water jug
+- [ ] Water cube (to fill when there)
 - [ ] Water bottles
 - [ ] Plates, bowls, forks, spoons, knives
 - [ ] cups and mugs
 - [ ] cutting board
 - [ ] biodegradable soap
-- [ ] rags for cleaning / wiping
+- [ ] Dish Towels
 - [ ] serrated knife, chopsticks
 - [ ] Food storage containers
 - [ ] extra bin for washing dishes
 - [ ] Coffee
 - [ ] Pot scraper
-- [ ] Hand Rags
+- [ ] chairs
+- [ ] Table
 
 ## Clothes
 
@@ -58,7 +80,6 @@
 - [ ] extra layers for warmth
 - [ ] gloves
 - [ ] hats
-- [ ] sunglasses for Henry and Dad
 
 ## Other items:
 
@@ -72,7 +93,6 @@
 - [ ] Hammocks
 - [ ] Bug swatter
 - [ ] extra blankets
-- [ ] chairs
 - [ ] Corkscrew
 - [ ] Tablecloth
 - [ ] Aluminum foil
@@ -90,3 +110,6 @@
 - [ ] Pirates boot, fruit snacks
 - [ ] Mac and cheese
 - [ ] Breakfast Burritos
+- [ ] Cereal and milk
+- [ ] Juiceboxes
+- [ ] Granola bars
