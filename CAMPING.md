@@ -45,6 +45,7 @@
 - [ ] Tissues
 - [ ] Fishing license?
 - [ ] Key to boat?
+- [ ] Insect Repellent 
 
 ## Food stuffs:
 
