@@ -104,3 +104,8 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 - [ ] Enable ATM access in foreign country if needed
 - [ ] Find out what's a cheap way to have internet there
 - [ ] Save favorite music offline. Don't wanna use up all that country's bandwith.
+
+## Driving?
+
+- [ ] Firewood
+- [ ] Tupperware for food coming home
