@@ -4,6 +4,7 @@
 * Potato hash dishes
 * Kazepackshen (goat cheese and veggies)
 * Waffles
+* Smoked salmon, cream cheese, and crackers
 
 ## When Cabining
 
@@ -18,3 +19,5 @@
 * Eggs & Bacon
 * Mini Sammies
 * Avocado toast
+* Pastry pups
+* Smoked salmon, cream cheese, and crackers
