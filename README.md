@@ -49,7 +49,6 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 - [ ] {num_days} \* 1 Boxershorts
 - [ ] {num_days} \* 1 Socks
 - [ ] {num_days} \* 1 T-Shirts
-- [ ] {num_days} / 2 Undershirts
 - [ ] {num_days} / 3 Shorts
 - [ ] {num_days} / 3 Sweaters
 - [ ] {num_days} / 3 Pants
@@ -59,7 +58,7 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 - [ ] Semi-dressy / dressy Shoes
 - [ ] Bandana
 - [ ] Wedding Clothing
-- [ ] Dress clothing – Suit, White Shirt, Black Tie, Dress Shoes, Dress Socks, Dress Belt
+- [ ] Dress clothing – Suit, undershirt, Black Tie, Dress Shoes, Dress Socks, Dress Belt
 - [ ] Pillow
 - [ ] Slippers
 - [ ] Small backpack
