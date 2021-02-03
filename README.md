@@ -79,6 +79,7 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 - [ ] Razor
 - [ ] Plastic bag for wet laundry
 
+
 ## Before I leave
 
 - [ ] Check weather, pack accordingly
@@ -109,3 +110,8 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 
 - [ ] Firewood
 - [ ] Tupperware for food coming home
+- [ ] Pillow
+- [ ] Cocktail ingredients and equipment
+- [ ] Slippers
+- [ ] Weed
+- [ ] PS5 and agmes
