@@ -1,7 +1,7 @@
 ## When Camping
 
 * Breakfast burritos
-* Potato hash dishes
+* Frozen hash browns, sausage, onion and peppers
 * Kazepackshen (goat cheese and veggies)
 * Waffles
 * Smoked salmon, cream cheese, and crackers
