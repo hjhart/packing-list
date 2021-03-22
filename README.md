@@ -29,7 +29,6 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 - [ ] Headphones
 - [ ] Entry keys for vacation house
 - [ ] Toilet bag
-- [ ] Nintendo Switch, dock, controllers, games
 - [ ] Cable Case
 - [ ] Backup Wallet (in case of robbery)
 - [ ] Roku Stick with Remote
@@ -59,7 +58,6 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 - [ ] Bandana
 - [ ] Wedding Clothing
 - [ ] Dress clothing – Suit, undershirt, Black Tie, Dress Shoes, Dress Socks, Dress Belt
-- [ ] Pillow
 - [ ] Slippers
 - [ ] Small backpack
 - [ ] Sonos Speaker
@@ -77,7 +75,6 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 - [ ] Toothbrush & paste
 - [ ] Razor
 - [ ] Plastic bag for wet laundry
-
 
 ## Before I leave
 
@@ -107,10 +104,10 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/READM
 
 ## Driving?
 
-- [ ] Firewood
+- [ ] Firewood / Axe
 - [ ] Tupperware for food coming home
 - [ ] Pillow
 - [ ] Cocktail ingredients and equipment
-- [ ] Slippers
 - [ ] Weed
 - [ ] PS5 and agmes
+- [ ] Mobile charger
