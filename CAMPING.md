@@ -85,7 +85,9 @@
 ## Other items:
 
 - [ ] Maps, area information
-- [ ] bikes, beach toys, books
+- [ ] bicycle
+- [ ] beach toys
+- [ ] board games / card games
 - [ ] pet supplies and food
 
 ## Unnecessary luxuries
