@@ -1,6 +1,6 @@
 # The Open Source Packing List (for when someone is taking care of your kid)
 
-Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/HENRY.md)! **for when someone is taking care of your kid for a weekend**.
+Nothing beats [printing](https://raw.github.com/hjhart/packing-list/main/HENRY.md)! **for when someone is taking care of your kid for a weekend**.
 
 ## When I leave
 
