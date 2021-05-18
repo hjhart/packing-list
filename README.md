@@ -1,6 +1,6 @@
 # The Open Source Packing List
 
-Nothing beats [printing](https://raw.github.com/hjhart/packing-list/master/README.md)! **Suited for road trips where everything fits in the car**.
+Nothing beats [printing](https://raw.github.com/hjhart/packing-list/main/README.md)! **Suited for road trips where everything fits in the car**.
 
 ## Before I leave
 
