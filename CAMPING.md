@@ -6,8 +6,6 @@
 - [ ] Grab iPad
 - [ ] Grab mobile charger / charging cables
 
-
-
 ## Campsite gear
 
 - [ ] Tent
@@ -45,7 +43,7 @@
 - [ ] Tissues
 - [ ] Fishing license?
 - [ ] Key to boat?
-- [ ] Insect Repellent 
+- [ ] Insect Repellent
 
 ## Food stuffs:
 
@@ -80,6 +78,9 @@
 - [ ] shoes: hiking / walking shoes, easy on shoes, water shoes
 - [ ] extra layers for warmth
 - [ ] gloves
+- [ ] socks
+- [ ] underwear
+- [ ] windbreaker
 - [ ] hats
 
 ## Other items:
@@ -107,6 +108,8 @@
 
 - [ ] Cantaloupe
 - [ ] Apples
+- [ ] Corn
+- [ ] Egg scramble surprise
 - [ ] Bagel / cream cheese
 - [ ] Potatoes o'brien
 - [ ] Hot dogs
