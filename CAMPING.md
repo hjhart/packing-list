@@ -119,3 +119,17 @@
 - [ ] Cereal and milk
 - [ ] Juiceboxes
 - [ ] Granola bars
+- [ ] Peanuts
+- [ ] Mashed potatoes
+- [ ] Chili
+- [ ] Take out curry
+- [ ] Soups
+- [ ] Tuna
+- [ ] Hard cheeses
+- [ ] Jerky
+- [ ] Red lentils https://reddit.com/r/trailmeals/comments/mmdim1/_/gtr7jvl/?context=1
+- [ ] Foil wrapped Baked potatoes with chili on top
+- [ ] Banana PB and honey in tortilla
+- [ ] Chili Mac
+- [ ] Ramen with dehydrated veggies
+- [ ] Taco rice and beans https://reddit.com/r/trailmeals/comments/mmdim1/_/gtqvkha/?context=1
