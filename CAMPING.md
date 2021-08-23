@@ -3,8 +3,9 @@
 ## Before Leaving
 
 - [ ] Grab Pillows
-- [ ] Grab iPad
+- [ ] Grab food from fridge
 - [ ] Grab mobile charger / charging cables
+- [ ] Vacation responder
 
 ## Campsite gear
 
@@ -91,7 +92,7 @@
 - [ ] board games / playing cards / card games
 - [ ] pet supplies and food
 - [ ] Fishing Pole
-- [ ] 
+
 ## Unnecessary luxuries
 
 - [ ] air pump and air mattress
