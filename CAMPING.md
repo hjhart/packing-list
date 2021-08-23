@@ -62,7 +62,7 @@
 - [ ] biodegradable soap
 - [ ] Dish Towels
 - [ ] serrated knife, chopsticks
-- [ ] Food storage containers
+- [ ] Tupperware
 - [ ] extra bin for washing dishes
 - [ ] Coffee
 - [ ] Pot scraper
@@ -88,9 +88,10 @@
 - [ ] Maps, area information
 - [ ] bicycle
 - [ ] beach toys
-- [ ] board games / card games
+- [ ] board games / playing cards / card games
 - [ ] pet supplies and food
-
+- [ ] Fishing Pole
+- [ ] 
 ## Unnecessary luxuries
 
 - [ ] air pump and air mattress
@@ -107,6 +108,7 @@
 ## Food Ideas
 
 - [ ] Cantaloupe
+- [ ] Butter, S+P
 - [ ] Apples
 - [ ] Corn
 - [ ] Egg scramble surprise
