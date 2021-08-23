@@ -3,13 +3,13 @@
 ## Before Leaving
 
 - [ ] Charge your Mobile charger
-- [ ] Eat some eggs, fruits, oatmeal,
+- [ ] Eat some eggs, fruits, oatmeal
 
 ## Hiking Gear
 
 - [ ] Backpack
-- [ ] Small blanket
-- [ ] Hand rag
+- [ ] Towel
+- [ ] Hand towel
 - [ ] Map
 - [ ] Compass
 - [ ] First-aid kit
@@ -26,12 +26,13 @@
 - [ ] Microspikes
 - [ ] Sewing kit
 - [ ] Hand warmers
+- [ ] Gloves
 
 ## Clothing
 
 - [ ] Wool socks + extras
-- [ ] Hiking boots + extra post-hike shoes
-- [ ] Hiking boots or shoes
+- [ ] Hiking boots 
+- [ ] extra post-hike shoes
 - [ ] non-cotton tee-shirt
 - [ ] Long sleeve layer (upper thermal / non-cotton long sleeve tee)
 - [ ] Light down layer
@@ -39,6 +40,7 @@
 - [ ] Leg thermals
 - [ ] Water resistant pants
 - [ ] Face / neck warmer
+- [ ] Insoles
 
 ## Food / Snacks ideas
 
