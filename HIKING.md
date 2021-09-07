@@ -27,6 +27,7 @@
 - [ ] Sewing kit
 - [ ] Hand warmers
 - [ ] Gloves
+- [ ] Toilet paper
 
 ## Clothing
 
