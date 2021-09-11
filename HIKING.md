@@ -28,6 +28,7 @@
 - [ ] Hand warmers
 - [ ] Gloves
 - [ ] Toilet paper
+- [ ] gaitor 
 
 ## Clothing
 
