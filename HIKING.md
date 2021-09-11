@@ -32,6 +32,7 @@
 ## Clothing
 
 - [ ] Wool socks + extras
+- [ ] sunglasses
 - [ ] Hiking boots 
 - [ ] extra post-hike shoes
 - [ ] non-cotton tee-shirt
