@@ -137,3 +137,4 @@
 - [ ] Chili Mac
 - [ ] Ramen with dehydrated veggies
 - [ ] Taco rice and beans https://reddit.com/r/trailmeals/comments/mmdim1/_/gtqvkha/?context=1
+- [ ] Eric the black's recipes https://blackwoodspress.com/blog/14385/backpacking-dinner-recipes/
