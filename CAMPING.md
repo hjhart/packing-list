@@ -130,6 +130,7 @@
 - [ ] Tuna
 - [ ] Hard cheeses
 - [ ] Jerky
+- [ ] peanut noodles https://andrewskurka.com/backpacking-dinner-recipe-peanut-noodles/
 - [ ] Red lentils https://reddit.com/r/trailmeals/comments/mmdim1/_/gtr7jvl/?context=1
 - [ ] Foil wrapped Baked potatoes with chili on top
 - [ ] Banana PB and honey in tortilla
