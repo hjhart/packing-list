@@ -108,6 +108,8 @@
 
 ## Food Ideas
 
+Anything from the back country cooking book
+Dried powder drinks (chai, cocoa, cider)
 - [ ] Cantaloupe
 - [ ] Butter, S+P
 - [ ] Apples
