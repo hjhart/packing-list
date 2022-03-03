@@ -16,9 +16,7 @@
 - [ ] Matches / Lighters
 - [ ] Newspaper
 - [ ] Maps / Area information
-
-## Stuff
-
+- [ ] Tarp
 - [ ] Chairs
 - [ ] Table
 - [ ] Minecraft uno
@@ -31,7 +29,8 @@
 - [ ] Sunglasses
 - [ ] First aid kit
 - [ ] Masks
-- [ ] Wipes
+- [ ] Paper towels
+- [ ] Water cube
 
 ## Food
 - [ ] Biodegradable soap
@@ -73,6 +72,7 @@
 
 - [ ] sleepwear
 - [ ] rainwear
+- [ ] boots
 - [ ] slip on shoes
 - [ ] tennis shoes
 - [ ] extra layers for warmth
@@ -98,3 +98,6 @@
 ### Before you leave
 
 - [ ] Grab food from fridge
+- [ ] pack ipad
+- [ ] Grab food from freezer
+- [ ] Grab wood from woodpile
