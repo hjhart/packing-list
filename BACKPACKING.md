@@ -4,85 +4,73 @@
 - [ ] Vacation responder
 
 ## Campsite gear
-- [x] Tent
-- [x] Foot print
-- [x] sleeping bag
-- [x] sleeping pad
-- [x] repair kit
-- [x] headlamps, flashlight
-- [x] lantern
-- [x] Duct tape
-- [x] pillow (down, fleece jacket in stuff sack)
-- [x] prescription medications
-- [x] toothbrush, toiletries
+- [ ] Tent
+- [ ] Foot print
+- [ ] sleeping bag
+- [ ] sleeping pad
+- [ ] repair kit
+- [ ] headlamps, flashlight
+- [ ] lantern
+- [ ] Duct tape
+- [ ] pillow (down, fleece jacket in stuff sack)
+- [ ] prescription medications
+- [ ] toothbrush, toiletries
 - [ ] mobile charger
 - [ ] charging cables
-- [x] Eye shade and earplug
-- [ ] ~~Sunscreen~~ (s)
+- [ ] Eye shade and earplug
 - [ ] Sunglasses
-- [x] first-aid kit
-- [x] Towel
-- [x] Gaiter
-- [x] Maps, area information
-- [x] Hankerchief
-- [ ] ~~Fishing license?~~
-- [ ] ~~Insect Repellent~~
-- [x] Knife
-- [x] Stakes
-- [ ] Camera?
-- [ ] airpods 
-- [ ] metal thin wire?
+- [ ] Towel
+- [ ] Maps, area information
+- [ ] Hankerchief
+- [ ] first-aid kit
+- [ ] Fishing license
+- [ ] Sunscreen 
+- [ ] Insect Repellent
+- [ ] Knife
+- [ ] Saw
+- [ ] Stakes
+- [ ] Camera
+- [ ] Extra camera battery, SD Card
+- [ ] metal thin wire for lifting pots and pans
+- [ ] speaker 
 
 ## Food stuffs:
-- [x] Coozy
-- [x] Solo stove
-- [x] Matches / Lighters / Farro rod / tinder
-- [x] Pot
-- [x] Bear cannister
-- [x] Water bottle
-- [x] Spoon
-- [x] cups 
-- [x] biodegradable soap
-- [x] serrated knife
-- [x] chopsticks
-- [ ] ~~Coffee~~
-- [x] Pot scraper
-- [x] Snacks
-- [x] Hot cocoa
-- [x] Trail mix for days
-- [x] little bag of shredded cheese and sausage for breakfast
-- [x] bagel with turkey and cream cheese and some potato chips
-- [x] gummy
-- [x] Whiskey
-- [x] beer or two
-- [x] apple
-- [x] one dinner (lasagna)
-
-## Packing
+- [ ] Coozy for meals
+- [ ] Cooking system
+- [ ] Matches / Lighters / Farro rod / tinder
+- [ ] Pot
+- [ ] Bear cannister
+- [ ] Water bottle
+- [ ] Spoon
+- [ ] cups 
+- [ ] biodegradable soap
+- [ ] serrated knife
+- [ ] chopsticks
+- [ ] Pot scraper
+- [ ] Snacks
+- [ ] Hot cocoa
+- [ ] Trail mix
+- [ ] bagel with turkey and cream cheese and some potato chips
+- [ ] Whiskey
+- [ ] one dinner (lasagna)
+- [ ] one breakfast
+- [ ] beef jerky
 
 ## Clothes
-- [x] sleepwear
-- [x] rainwear
-- [x] shoes: hiking / walking shoes, easy on shoes, water shoes
-- [x] extra layers for warmth
-- [x] gloves
-- [x] socks
-- [x] underwear
-- [x] windbreaker
-- [x] hats
+ 
+- [ ] sleepwear
+- [ ] gloves
+- [ ] 2x underwear
 - [ ] Boots
-- [ ] Inserts for boots
-- [x] 1x synth t-shirt
-- [x] 2x pairs wool socks
-- [x] thermal pants
-- [x] thermal uppers
-- [x] thermal underwear
-- [x] backup blue fleece jacket
-- [x] patagonia down jacket
-- [x] rainproof jacket
-- [x] wool cap
-- [x] cotton cap
-- [x] hankerchief
-- [ ] slippers???
-- [x] Gaitor neck
-
+- [ ] Insoles
+- [ ] 2x synth t-shirt
+- [ ] 2x pairs wool socks
+- [ ] thermal uppers
+- [ ] thermal underwear
+- [ ] backup blue fleece jacket
+- [ ] patagonia down jacket
+- [ ] rainproof jacket
+- [ ] wool cap
+- [ ] cotton cap
+- [ ] hankerchief
+- [ ] Gaitor neck
