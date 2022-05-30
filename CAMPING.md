@@ -6,35 +6,34 @@
 - [ ] Grab food from fridge
 - [ ] Grab mobile charger / charging cables
 - [ ] Vacation responder
+- [ ] Offline Maps
 
 ## Campsite gear
 
 - [ ] Tent
 - [ ] Foot print
-- [ ] sleeping bags
-- [ ] sleeping pads
 - [ ] repair kit
 - [ ] headlamps, flashlights
 - [ ] lantern
 - [ ] Duct tape
-- [ ] pillows
 - [ ] Bug spray
-- [ ] prescription medications
-- [ ] soap
-- [ ] toothbrush, toiletries
+- [ ] Soap
 - [ ] mobile charger
-- [ ] charging cables
-- [ ] iPad
+- [ ] charging cables (micro / lightning / usb-c)
 - [ ] night time books
+- [ ] Kindle
 - [ ] Eye shade and earplugs
 - [ ] Quick dry towel
 - [ ] Speaker
 
 ## Backpack stuff
 
+- [ ] toothbrush, toiletries
+- [ ] prescription medications
 - [ ] Water bottle
 - [ ] Snacks
 - [ ] Sunscreen(s)
+- [ ] Insect Repellent
 - [ ] Sunglasses
 - [ ] first-aid kit
 - [ ] Towel
@@ -42,39 +41,48 @@
 - [ ] Hand sanitizer
 - [ ] Wipes
 - [ ] Tissues
-- [ ] Fishing license?
-- [ ] Key to boat?
-- [ ] Insect Repellent
+- [ ] Chairs
+- [ ] Table
+- [ ] Multitool
 
 ## Food stuffs:
 
-- [ ] Solo stove
+- [ ] Stove
 - [ ] Fuel for stove
 - [ ] Matches / Lighters
 - [ ] Pots / Pans
-- [ ] Roasting sticks for marshmallows or hot dogs
+- [ ] Cast Iron, Dutch Oven
 - [ ] Trash bags
 - [ ] Cooler
 - [ ] Water cube (to fill when there)
 - [ ] Water bottles
 - [ ] Plates, bowls, forks, spoons, knives
+- [ ] Whisk / Wooden spoon / Spatula / Tongs
 - [ ] cups and mugs
 - [ ] cutting board
 - [ ] biodegradable soap
 - [ ] Dish Towels
 - [ ] serrated knife, chopsticks
 - [ ] Tupperware
+- [ ] Larger Bowls
 - [ ] extra bin for washing dishes
-- [ ] Coffee
 - [ ] Pot scraper
-- [ ] chairs
-- [ ] Table
+- [ ] Aluminum foil
+
+## Sleep System
+
+- [ ] Sleeping bag
+- [ ] Pad
+- [ ] Blankets
+- [ ] Pillow
+
 
 ## Clothes
 
-- [ ] Clothes for daytime
+- [ ] T-shirts
+- [ ] Thermals
 - [ ] sleepwear
-- [ ] swimsuits
+- [ ] swimsuit
 - [ ] rainwear
 - [ ] shoes: hiking / walking shoes, easy on shoes, water shoes
 - [ ] extra layers for warmth
@@ -82,7 +90,7 @@
 - [ ] socks
 - [ ] underwear
 - [ ] windbreaker
-- [ ] hats
+- [ ] beanie / baseball cap
 
 ## Other items:
 
@@ -90,53 +98,29 @@
 - [ ] bicycle
 - [ ] beach toys
 - [ ] board games / playing cards / card games
+- [ ] ENO cornhole
 - [ ] pet supplies and food
 - [ ] Fishing Pole
-
-## Unnecessary luxuries
-
-- [ ] air pump and air mattress
-- [ ] Hammocks
+- [ ] Fishing license
+- [ ] Key to boat
+- [ ] Hammock / Underquilt / Straps / Rain Fly
 - [ ] Bug swatter
-- [ ] extra blankets
-- [ ] Corkscrew
 - [ ] Tablecloth
-- [ ] Aluminum foil
 - [ ] Projector, speaker, wires and cords for setup
 - [ ] Edibles
 - [ ] Alcohol
+- [ ] Camera / Tripod / Mic / Charged batteries / Peak design mount and backpack clip
 
-## Food Ideas
+## Odie:
 
-Anything from the back country cooking book
-Dried powder drinks (chai, cocoa, cider)
-- [ ] Cantaloupe
-- [ ] Butter, S+P
-- [ ] Apples
-- [ ] Corn
-- [ ] Egg scramble surprise
-- [ ] Bagel / cream cheese
-- [ ] Potatoes o'brien
-- [ ] Hot dogs
-- [ ] Pirates boot, fruit snacks
-- [ ] Mac and cheese
-- [ ] Breakfast Burritos
-- [ ] Cereal and milk
-- [ ] Juiceboxes
-- [ ] Granola bars
-- [ ] Peanuts
-- [ ] Mashed potatoes
-- [ ] Chili
-- [ ] Take out curry
-- [ ] Soups
-- [ ] Tuna
-- [ ] Hard cheeses
-- [ ] Jerky
-- [ ] peanut noodles https://andrewskurka.com/backpacking-dinner-recipe-peanut-noodles/
-- [ ] Red lentils https://reddit.com/r/trailmeals/comments/mmdim1/_/gtr7jvl/?context=1
-- [ ] Foil wrapped Baked potatoes with chili on top
-- [ ] Banana PB and honey in tortilla
-- [ ] Chili Mac
-- [ ] Ramen with dehydrated veggies
-- [ ] Taco rice and beans https://reddit.com/r/trailmeals/comments/mmdim1/_/gtqvkha/?context=1
-- [ ] Eric the black's recipes https://blackwoodspress.com/blog/14385/backpacking-dinner-recipes/
+- [ ] Collar
+- [ ] Leash
+- [ ] Tether system
+- [ ] Bed
+- [ ] Blanket inside tent
+- [ ] Dry food
+- [ ] Wet food
+- [ ] Dog treats
+- [ ] Water bowl / Food bowl
+- [ ] Poop bags
+- [ ] Towel
