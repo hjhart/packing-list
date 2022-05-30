@@ -3,8 +3,6 @@
 ## Before Leaving
 
 - [ ] Grab Pillows
-- [ ] Grab food from fridge
-- [ ] Grab mobile charger / charging cables
 - [ ] Vacation responder
 - [ ] Offline Maps
 
@@ -68,14 +66,11 @@
 - [ ] extra bin for washing dishes
 - [ ] Pot scraper
 - [ ] Aluminum foil
-
-## Sleep System
-
 - [ ] Sleeping bag
 - [ ] Pad
 - [ ] Blankets
 - [ ] Pillow
-
+- [ ] Tablecloth
 
 ## Clothes
 
@@ -95,17 +90,10 @@
 ## Other items:
 
 - [ ] Maps, area information
-- [ ] bicycle
-- [ ] beach toys
-- [ ] board games / playing cards / card games
+- [ ] beach toys, board games, playing cards, card games, bike
 - [ ] ENO cornhole
-- [ ] pet supplies and food
-- [ ] Fishing Pole
-- [ ] Fishing license
-- [ ] Key to boat
+- [ ] Fishing license, key to boat
 - [ ] Hammock / Underquilt / Straps / Rain Fly
-- [ ] Bug swatter
-- [ ] Tablecloth
 - [ ] Projector, speaker, wires and cords for setup
 - [ ] Edibles
 - [ ] Alcohol
