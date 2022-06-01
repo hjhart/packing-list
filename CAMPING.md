@@ -12,6 +12,7 @@
 - [ ] Foot print
 - [ ] repair kit
 - [ ] headlamps, flashlights
+- [ ] Portable fan
 - [ ] lantern
 - [ ] Duct tape
 - [ ] Bug spray
@@ -19,7 +20,6 @@
 - [ ] mobile charger
 - [ ] charging cables (micro / lightning / usb-c)
 - [ ] night time books
-- [ ] Kindle
 - [ ] Eye shade and earplugs
 - [ ] Quick dry towel
 - [ ] Speaker
@@ -41,6 +41,7 @@
 - [ ] Tissues
 - [ ] Chairs
 - [ ] Table
+- [ ] Kindle
 - [ ] Multitool
 
 ## Food stuffs:
