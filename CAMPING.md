@@ -23,6 +23,10 @@
 - [ ] Eye shade and earplugs
 - [ ] Quick dry towel
 - [ ] Speaker
+- [ ] Sleeping bag
+- [ ] Pad
+- [ ] Blankets
+- [ ] Pillow
 
 ## Backpack stuff
 
@@ -67,10 +71,6 @@
 - [ ] extra bin for washing dishes
 - [ ] Pot scraper
 - [ ] Aluminum foil
-- [ ] Sleeping bag
-- [ ] Pad
-- [ ] Blankets
-- [ ] Pillow
 - [ ] Tablecloth
 
 ## Clothes
@@ -92,8 +92,8 @@
 
 - [ ] Maps, area information
 - [ ] beach toys, board games, playing cards, card games, bike
+- [ ] life vest, Fishing license, key to boat
 - [ ] ENO cornhole
-- [ ] Fishing license, key to boat
 - [ ] Hammock / Underquilt / Straps / Rain Fly
 - [ ] Projector, speaker, wires and cords for setup
 - [ ] Edibles
