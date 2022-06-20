@@ -21,12 +21,12 @@
 - [ ] charging cables (micro / lightning / usb-c)
 - [ ] night time books
 - [ ] Eye shade and earplugs
-- [ ] Quick dry towel
-- [ ] Speaker
 - [ ] Sleeping bag
 - [ ] Pad
 - [ ] Blankets
 - [ ] Pillow
+- [ ] Chairs
+- [ ] Table
 
 ## Backpack stuff
 
@@ -38,13 +38,11 @@
 - [ ] Insect Repellent
 - [ ] Sunglasses
 - [ ] first-aid kit
-- [ ] Towel
+- [ ] Quick dry towel
 - [ ] Masks
 - [ ] Hand sanitizer
 - [ ] Wipes
 - [ ] Tissues
-- [ ] Chairs
-- [ ] Table
 - [ ] Kindle
 - [ ] Multitool
 
@@ -58,7 +56,6 @@
 - [ ] Trash bags
 - [ ] Cooler
 - [ ] Water cube (to fill when there)
-- [ ] Water bottles
 - [ ] Plates, bowls, forks, spoons, knives
 - [ ] Whisk / Wooden spoon / Spatula / Tongs
 - [ ] cups and mugs
@@ -91,6 +88,7 @@
 ## Other items:
 
 - [ ] Maps, area information
+- [ ] Speaker
 - [ ] beach toys, board games, playing cards, card games, bike
 - [ ] life vest, Fishing license, key to boat
 - [ ] ENO cornhole
