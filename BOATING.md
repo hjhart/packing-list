@@ -21,7 +21,8 @@
 - [ ] sleepwear
 - [ ] swimsuits
 - [ ] rainwear
-- [ ] shoes: hiking / walking shoes, easy on shoes, water shoes
+- [ ] shoes: hiking / walking shoes, water shoes
+- [ ] easy on-off shoes for boat on boat off
 - [ ] extra layers for warmth
 - [ ] gloves
 - [ ] hats
