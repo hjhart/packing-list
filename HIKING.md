@@ -3,7 +3,7 @@
 ## Before Leaving
 
 - [ ] Charge your Mobile charger
-- [ ] Eat some eggs, fruits, oatmeal
+- [ ] Charge your Bivy Stick
 
 ## Hiking Gear
 
@@ -18,38 +18,43 @@
 - [ ] Fire: matches, lighter, tinder and/or stove
 - [ ] Shelter (can be a light emergency bivy)
 - [ ] Extra food, beyond the minimum expectation
-- [ ] Extra water, beyond the minimum expectation
-- [ ] Apple watch charger (for compass)
-- [ ] Phone charger (for maps, potentially)
-- [ ] Mobile charger
+- [ ] Extra water, beyond the minimum expectation (2 cups (about 1/2 liter) of water for every 1 hour of hiking)
+- [ ] Water filter
+- [ ] Cord bag (watch, lightning, usb-c, micro, solar charger)
 - [ ] Hiking sticks
+- [ ] Poop Kit
+
+## Is it cold / wet? 
+
 - [ ] Microspikes
-- [ ] Sewing kit
 - [ ] Hand warmers
 - [ ] Gloves
-- [ ] Toilet paper
 - [ ] gaitor 
-
-## Clothing
-
 - [ ] Wool socks + extras
+- [ ] Long sleeve layer (upper thermal / non-cotton long sleeve tee)
+- [ ] Leg thermals
+- [ ] Light down layer
+- [ ] rain proof shell
+- [ ] Water resistant pants
+
+## Is it warm / hot?
+
 - [ ] sunglasses
 - [ ] Hiking boots 
-- [ ] extra post-hike shoes
-- [ ] non-cotton tee-shirt
-- [ ] Long sleeve layer (upper thermal / non-cotton long sleeve tee)
-- [ ] Light down layer
-- [ ] Rainproof shell
-- [ ] Leg thermals
-- [ ] Water resistant pants
-- [ ] Face / neck warmer
 - [ ] Insoles
+- [ ] extra post-hike shoes / sandals
+- [ ] Tee
+- [ ] Long sleeve tee
+- [ ] wind proof shell
+- [ ] Bandana
 
 ## Food / Snacks ideas
 
 Banana
+Cookie
+Snickers
 PB+J
-Granola Bar
+Clif Bar
 Apple
 Trail mix
 Cheese
