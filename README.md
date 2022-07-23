@@ -76,6 +76,7 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/main/README.
 - [ ] Toothbrush & paste
 - [ ] Razor
 - [ ] Plastic bag for wet laundry
+- [ ] Eyeshades
 
 ## Misc
 
