@@ -52,6 +52,7 @@
 - [ ] Matches / Lighters
 - [ ] Pots / Pans
 - [ ] Cast Iron, Dutch Oven
+- [ ] Firewood / axe
 - [ ] Trash bags
 - [ ] Cooler
 - [ ] Water cube (to fill when there)
