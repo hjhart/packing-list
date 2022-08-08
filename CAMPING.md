@@ -87,10 +87,12 @@
 
 ## Other items:
 
+- [ ] Walkie-talkies
+- [ ] Picnic blanket
 - [ ] Maps, area information
 - [ ] Speaker
 - [ ] beach toys, board games, playing cards, card games, bike
-- [ ] life vest, Fishing license, key to boat
+- [ ] life vest, Fishing license, key to boat, boat, intertube
 - [ ] ENO cornhole
 - [ ] Hammock / Underquilt / Straps / Rain Fly
 - [ ] Projector, speaker, wires and cords for setup
