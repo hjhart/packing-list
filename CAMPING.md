@@ -35,7 +35,6 @@
 - [ ] Water bottle
 - [ ] Snacks
 - [ ] Sunscreen(s)
-- [ ] Insect Repellent
 - [ ] Sunglasses
 - [ ] first-aid kit
 - [ ] Quick dry towel
