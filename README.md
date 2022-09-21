@@ -34,7 +34,7 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/main/README.
 - [ ] Small backpack
 - [ ] Sonos Speaker
 - [ ] Book / Kindle
-- [ ] iPad
+- [ ] iPad, HDMI cable
 - [ ] Pen & Paper
 - [ ] Business Cards
 - [ ] Present for host
@@ -83,7 +83,8 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/main/README.
 - [ ] Firewood / Axe
 - [ ] Pillow
 - [ ] Weed
-- [ ] PS5 and games
+- [ ] PS5, cords and games
+- [ ] Playdate / Switch, cords and games
 - [ ] Board games
 
 ## Kitchen stuff
