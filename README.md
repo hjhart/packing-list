@@ -12,19 +12,19 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/main/README.
 - [ ] Set vacation responder on Slack / Email.
 - [ ] Download offline maps for destination (via Google Maps offline maps)
 
-## When I leave
+## Downstairs
 
-- [ ] Pack food from fridge into backpack
-- [ ] Pack iPad
-- [ ] Pack laptop and charger
-- [ ] Lock all windows/doors
+- [ ] Sunglasses
+- [ ] Masks
+- [ ] Cash
+- [ ] Umbrella
+- [ ] Gloves
+- [ ] Warm hat
 
 ## Pack in the car
 
 - [ ] Headphones
 - [ ] Entry keys for vacation house
-- [ ] Sunglasses
-- [ ] Masks
 - [ ] Mobile charger
 - [ ] Bag of Cords (Lightning, USB-C, mini USB, mobile power brick, power adapter)
 - [ ] Snacks for the road (PB&J, Apple, chips)
@@ -38,17 +38,15 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/main/README.
 - [ ] Pen & Paper
 - [ ] Business Cards
 - [ ] Present for host
-- [ ] Cash
 - [ ] Dopp kit
 - [ ] Roku Stick with Remote
 - [ ] Belt
-- [ ] Gloves / Hat
+- [ ] Baseball cap
 - [ ] Gym outfit
 - [ ] Rain Jacket
 - [ ] Swimming shorts
 - [ ] Sweat pants
 - [ ] Swiss knife with some tools
-- [ ] Umbrella
 - [ ] Boxershorts
 - [ ] Socks
 - [ ] T-Shirts
@@ -93,3 +91,10 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/main/README.
 - [ ] Cocktail ingredients, Juicer, Jigger, Strainer,
 - [ ] Butter, Salt, Pepper
 - [ ] Beer
+
+## When I leave
+
+- [ ] Pack food from fridge into backpack
+- [ ] Pack iPad
+- [ ] Pack laptop and charger
+- [ ] Lock all windows/doors
