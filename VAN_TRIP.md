@@ -10,7 +10,6 @@
 - [ ] night time books
 - [ ] eye shade and earplugs
 - [ ] quick dry towel
-- [ ] Water bottles
 - [ ] Wood
 - [ ] Fat wood
 - [ ] Matches / Lighters
@@ -22,17 +21,20 @@
 - [ ] Minecraft uno
 - [ ] Extra blanket
 - [ ] Hammock
-- [ ] Dopp kit
 - [ ] Mobile charger
 - [ ] charging cables
 - [ ] ipad
-- [ ] Sunglasses
 - [ ] First aid kit
 - [ ] Masks
 - [ ] Paper towels
 - [ ] Water cube
+- [ ] Pee pads / extra sheets
+- [ ] Pillow
+- [ ] Camping table
+- [ ] Walkie Talkies
 
 ## Food
+
 - [ ] Biodegradable soap
 - [ ] Tupperware
 - [ ] Cast iron
@@ -44,32 +46,12 @@
 - [ ] Whiskey
 - [ ] Beer
 - [ ] Cooler
-- [ ] Coffee
-- [ ] Butter, Salt and Pepper
-- [ ] Hot dogs
-- [ ] Hot dog buns
-- [ ] Mac and cheese
-- [ ] Milk
-- [ ] Cereal
-- [ ] Oatmeal
-- [ ] Sausage
-- [ ] Shredded Cheese
-- [ ] Bread
-- [ ] Pepperoni
-- [ ] Wheat thins
-
- ## Snacks
-
-- [ ] Bananas
-- [ ] Apples
-- [ ] Juice boxes
-- [ ] Trail mix
-- [ ] Popcorn / Seasoning salt
-- [ ] Chips
-- [ ] Cocoa
 
 ## Clothes
 
+- [ ] Water bottles
+- [ ] Dopp kit
+- [ ] Sunglasses
 - [ ] sleepwear
 - [ ] rainwear
 - [ ] boots
