@@ -64,6 +64,7 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/main/README.
 ## The toiletry bag
 
 - [ ] Medicine pill bottle
+- [ ] Seizure medicine
 - [ ] Deodorant 100ml
 - [ ] Sunscreen
 - [ ] Earplugs
