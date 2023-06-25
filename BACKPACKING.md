@@ -32,7 +32,9 @@
 - [ ] Camera
 - [ ] Extra camera battery, SD Card
 - [ ] metal thin wire for lifting pots and pans
-- [ ] speaker 
+- [ ] speaker
+- [ ] BivyStick
+- [ ] Thermacell
 
 ## Food stuffs:
 - [ ] Coozy for meals
@@ -51,7 +53,7 @@
 - [ ] Hot cocoa
 - [ ] Trail mix
 - [ ] bagel with turkey and cream cheese and some potato chips
-- [ ] Whiskey
+- [ ] Whiskey / Vodka
 - [ ] one dinner (lasagna)
 - [ ] one breakfast
 - [ ] beef jerky
@@ -72,5 +74,7 @@
 - [ ] rainproof jacket
 - [ ] wool cap
 - [ ] cotton cap
+- [ ] Bathing suit
+- [ ] Dopp kit
 - [ ] hankerchief
 - [ ] Gaitor neck
