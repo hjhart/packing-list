@@ -24,6 +24,7 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/main/README.
 ## Pack in the car
 
 - [ ] Headphones
+- [ ] Hankerchief (quick dry rag)
 - [ ] Entry keys for vacation house
 - [ ] Mobile charger
 - [ ] Bag of Cords (Lightning, USB-C, mini USB, mobile power brick, power adapter)
