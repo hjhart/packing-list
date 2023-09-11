@@ -91,8 +91,9 @@
 - [ ] Picnic blanket
 - [ ] Maps, area information
 - [ ] Speaker
-- [ ] beach toys, board games, playing cards, card games, bike
-- [ ] life vest, Fishing license, key to boat, boat, intertube
+- [ ] bucket, shovel, beach stuff, board games, playing cards, card games, bike
+- [ ] chalk
+- [ ] life vest, Fishing license, key to boat, boat, intertube, goggles
 - [ ] ENO cornhole
 - [ ] Hammock / Underquilt / Straps / Rain Fly
 - [ ] Projector, speaker, wires and cords for setup
