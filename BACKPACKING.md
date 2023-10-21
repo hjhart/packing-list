@@ -9,6 +9,10 @@
 - [ ] sleeping bag
 - [ ] sleeping pad
 - [ ] repair kit
+- [ ] tarp
+- [ ] rainproof backpack cover
+- [ ] poopkit
+- [ ] parking / camping permit
 - [ ] headlamps, flashlight
 - [ ] lantern
 - [ ] Duct tape
