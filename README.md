@@ -2,6 +2,15 @@
 
 Nothing beats [printing](https://raw.github.com/hjhart/packing-list/main/README.md)! **Suited for road trips where everything fits in the car**.
 
+## When I leave
+
+- [ ] Pack food from fridge into backpack
+- [ ] Pack iPad
+- [ ] Pack laptop and charger
+- [ ] Lock all windows/doors
+- [ ] Slippers
+- [ ] Grab razor / toothbrush
+
 ## Before I leave
 
 - [ ] Check weather, pack accordingly
@@ -10,9 +19,9 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/main/README.
 - [ ] Clean up wallet. Check if **creditcard, ID is in there**
 - [ ] Clip nails, so you don't have to abroad
 - [ ] Set vacation responder on Slack / Email.
-- [ ] Download offline maps for destination (via Google Maps offline maps)
+- [ ] Download offline maps for destination
 
-## Downstairs
+## Grab from Downstairs
 
 - [ ] Sunglasses
 - [ ] Masks
@@ -33,14 +42,12 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/main/README.
 ## The suitcase
 
 - [ ] Small backpack
-- [ ] Sonos Speaker
 - [ ] Book / Kindle
 - [ ] iPad, HDMI cable
 - [ ] Pen & Paper
 - [ ] Business Cards
 - [ ] Present for host
 - [ ] Dopp kit
-- [ ] Roku Stick with Remote
 - [ ] Belt
 - [ ] Baseball cap
 - [ ] Gym outfit
@@ -80,6 +87,8 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/main/README.
 
 ## Misc
 
+- [ ] Portable Speaker
+- [ ] Roku Stick with Remote
 - [ ] Firewood / Axe
 - [ ] Pillow
 - [ ] Weed
@@ -94,9 +103,3 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/main/README.
 - [ ] Butter, Salt, Pepper
 - [ ] Beer
 
-## When I leave
-
-- [ ] Pack food from fridge into backpack
-- [ ] Pack iPad
-- [ ] Pack laptop and charger
-- [ ] Lock all windows/doors
