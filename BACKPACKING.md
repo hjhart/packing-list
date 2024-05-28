@@ -8,6 +8,7 @@
 - [ ] Foot print
 - [ ] sleeping bag
 - [ ] sleeping pad
+- [ ] chair
 - [ ] repair kit
 - [ ] tarp
 - [ ] rainproof backpack cover
@@ -78,7 +79,10 @@
 - [ ] rainproof jacket
 - [ ] wool cap
 - [ ] cotton cap
+- [ ] baseball cap
 - [ ] Bathing suit
 - [ ] Dopp kit
 - [ ] hankerchief
 - [ ] Gaitor neck
+- [ ] hiking poles
+- [ ] microspikes
