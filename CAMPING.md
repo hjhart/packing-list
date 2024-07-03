@@ -55,6 +55,7 @@
 - [ ] Firewood / axe
 - [ ] Trash bags
 - [ ] Cooler
+- [ ] Koozie
 - [ ] Water cube (to fill when there)
 - [ ] Plates, bowls, forks, spoons, knives
 - [ ] Whisk / Wooden spoon / Spatula / Tongs
