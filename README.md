@@ -52,7 +52,7 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/main/README.
 - [ ] Baseball cap
 - [ ] Gym outfit
 - [ ] Rain Jacket
-- [ ] Swimming shorts
+- [ ] Swimming shorts / goggles / pool toys
 - [ ] Sweat pants
 - [ ] Swiss knife with some tools
 - [ ] Boxershorts
