@@ -27,6 +27,7 @@
 - [ ] Pillow
 - [ ] Chairs
 - [ ] Table
+- [ ] Tarp and rope
 
 ## Backpack stuff
 
