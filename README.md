@@ -84,6 +84,7 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/main/README.
 - [ ] Razor
 - [ ] Plastic bag for wet laundry
 - [ ] Eyeshades
+- [ ] Afrin
 
 ## Misc
 
