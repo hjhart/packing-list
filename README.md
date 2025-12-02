@@ -16,7 +16,8 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/main/README.
 - [ ] Check weather, pack accordingly
 - [ ] Give a spare key to whoever needs access to house
 - [ ] Charge phone battery / Kindle / Tablet / Camera
-- [ ] Clean up wallet. Check if **creditcard, ID is in there**
+- [ ] Clean up wallet. Check if **creditcard, ID is in there**.
+- [ ] Wallet check: Do you need a passport card? Do you need any other transit or access keys?
 - [ ] Clip nails, so you don't have to abroad
 - [ ] Set vacation responder on Slack / Email.
 - [ ] Download offline maps for destination
