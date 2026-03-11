@@ -5,11 +5,8 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/main/README.
 ## When I leave
 
 - [ ] Pack food from fridge into backpack
-- [ ] Pack iPad
 - [ ] Pack laptop and charger
 - [ ] Lock all windows/doors
-- [ ] Slippers
-- [ ] Grab razor / toothbrush
 
 ## Before I leave
 
@@ -97,6 +94,7 @@ Nothing beats [printing](https://raw.github.com/hjhart/packing-list/main/README.
 - [ ] PS5, cords and games
 - [ ] Playdate / Switch, cords and games
 - [ ] Board games
+- [ ] Baseball Mitt
 
 ## Kitchen stuff
 
