@@ -32,6 +32,21 @@ You'll be asked:
 
 After you answer the transport question, Claude looks up the destination and infers weather (warm / cold / snowy / mixed) and whether it's international travel. This controls items like gloves, boots, sweaters, and the passport reminder.
 
+You can also pass any answers as flags to skip the prompts:
+
+```bash
+# Family trip to Palm Springs
+node generate.js --destination "Palm Springs" --month April --year 2026 --days 6 --family --henry --swimming
+
+# Solo trip to New York
+node generate.js --destination "New York" --month November --year 2026 --days 4 --no-family --no-swimming
+
+# Quick debug run
+node generate.js --destination "Nashville" --month June --year 2026 --days 5 --family --henry --debug
+```
+
+Boolean flags: `--family` / `--no-family`, `--henry` / `--no-henry`, `--swimming` / `--no-swimming`, `--debug`.
+
 ## Output
 
 A browser window opens with the list laid out in three columns, font scaled to fill exactly one letter-sized page. Print with Cmd+P → Save as PDF.
