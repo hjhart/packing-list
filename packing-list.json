@@ -1,0 +1,225 @@
+{
+  "version": 9,
+  "changelog": [
+    {
+      "version": 1,
+      "date": "2026-03-12",
+      "changes": ["Initial version"]
+    },
+    {
+      "version": 2,
+      "date": "2026-03-12",
+      "changes": [
+        "Baseball Mitt now always included when driving (removed Cochran's question)",
+        "Weather and international travel now inferred by Claude based on destination and month"
+      ]
+    },
+    {
+      "version": 3,
+      "date": "2026-03-12",
+      "changes": [
+        "Merged 'Grab from Downstairs' into 'Small bag' (formerly 'Pack in the car')"
+      ]
+    },
+    {
+      "version": 4,
+      "date": "2026-03-12",
+      "changes": [
+        "Driving vs flying now inferred by Claude based on distance from Seattle",
+        "Added family trip question; Henry question only shown on family trips",
+        "Lock all windows/doors and Give a spare key now only shown on family trips"
+      ]
+    },
+    {
+      "version": 5,
+      "date": "2026-03-12",
+      "changes": [
+        "Weed and Portable Speaker now driving-only",
+        "Removed iPad, HDMI cable"
+      ]
+    },
+    {
+      "version": 6,
+      "date": "2026-03-12",
+      "changes": [
+        "Removed Swiss knife",
+        "Added Passport card for domestic flights",
+        "Added Passport for international flights"
+      ]
+    },
+    {
+      "version": 7,
+      "date": "2026-03-12",
+      "changes": ["Removed Masks"]
+    },
+    {
+      "version": 8,
+      "date": "2026-03-12",
+      "changes": ["Added Henry checkboxes across small bag, suitcase, and before-i-leave items"]
+    },
+    {
+      "version": 9,
+      "date": "2026-03-12",
+      "changes": ["Added Art supplies as Henry-only item"]
+    }
+  ],
+  "questions": [
+    {
+      "id": "trip_name",
+      "text": "Destination?",
+      "type": "text"
+    },
+    {
+      "id": "trip_start",
+      "text": "Month of trip?",
+      "type": "month"
+    },
+    {
+      "id": "trip_days",
+      "text": "How many days?",
+      "type": "number"
+    },
+    {
+      "id": "family",
+      "text": "Family trip?",
+      "type": "boolean",
+      "default": true,
+      "activateTagsIfTrue": ["family"]
+    },
+    {
+      "id": "henry",
+      "text": "Packing for Henry?",
+      "type": "boolean",
+      "special": "henry-column",
+      "showIf": { "questionId": "family", "value": true }
+    },
+    {
+      "id": "swimming",
+      "text": "Will you be swimming?",
+      "type": "boolean",
+      "activateTagsIfTrue": ["swimming"]
+    }
+  ],
+  "sections": [
+    {
+      "id": "when-i-leave",
+      "title": "When I leave",
+      "items": [
+        { "text": "Pack food from fridge into backpack" },
+        { "text": "Pack laptop and charger" },
+        { "text": "Lock all windows/doors", "conditions": ["family"] }
+      ]
+    },
+    {
+      "id": "before-i-leave",
+      "title": "Before I leave",
+      "items": [
+        { "text": "Check weather, pack accordingly" },
+        { "text": "Give a spare key to whoever needs access to house", "conditions": ["family"] },
+        { "text": "Charge phone battery / Kindle / Tablet / Camera", "henry": true },
+        { "text": "Clean up wallet. Check if creditcard, ID is in there." },
+        { "text": "Wallet check: Do you need a passport card? Any other transit or access keys?", "conditions": ["international"] },
+        { "text": "Clip nails" },
+        { "text": "Set vacation responder on Slack / Email" },
+        { "text": "Download offline maps for destination" }
+      ]
+    },
+    {
+      "id": "small-bag",
+      "title": "Small bag",
+      "items": [
+        { "text": "Sunglasses", "henry": true },
+        { "text": "Cash", "henry": true },
+        { "text": "Umbrella", "id": "umbrella" },
+        { "text": "Gloves", "conditions": ["cold", "snow"] },
+        { "text": "Warm hat", "conditions": ["cold", "snow"] },
+        { "text": "Headphones", "henry": true },
+        { "text": "Hankerchief (quick dry rag)" },
+        { "text": "Entry keys for vacation house", "conditions": ["driving"] },
+        { "text": "Passport card", "conditions": ["flying-domestic"], "henry": true },
+        { "text": "Passport", "conditions": ["flying-international"], "henry": true },
+        { "text": "Mobile charger", "henry": true },
+        { "text": "Bag of Cords (Lightning, USB-C, mini USB, mobile power brick, power adapter)", "henry": true },
+        { "text": "Snacks for the road (PB&J, Apple, chips)", "conditions": ["driving"] }
+      ]
+    },
+    {
+      "id": "suitcase",
+      "title": "The suitcase",
+      "items": [
+        { "text": "Small backpack", "henry": true },
+        { "text": "Book / Kindle", "henry": true },
+        { "text": "Art supplies", "henry_only": true },
+        { "text": "Pen & Paper" },
+        { "text": "Business Cards" },
+        { "text": "Present for host" },
+        { "text": "Dopp kit", "henry": true },
+        { "text": "Belt" },
+        { "text": "Baseball cap", "henry": true },
+        { "text": "Gym outfit", "henry": true },
+        { "text": "Rain Jacket", "henry": true },
+        { "text": "Swimming shorts / goggles / pool toys", "conditions": ["swimming"], "henry": true },
+        { "text": "Sweat pants", "conditions": ["cold", "snow"], "henry": true },
+        { "text": "Boxershorts", "henry": true },
+        { "text": "Socks", "henry": true },
+        { "text": "T-Shirts", "henry": true },
+        { "text": "Shorts", "conditions": ["warm", "swimming"], "henry": true },
+        { "text": "Sweaters", "conditions": ["cold", "snow"], "henry": true },
+        { "text": "Pants", "henry": true },
+        { "text": "Beach Towels / Towels", "conditions": ["swimming"], "henry": true },
+        { "text": "Watch" },
+        { "text": "Flipflops", "conditions": ["warm", "swimming"], "henry": true },
+        { "text": "Boots", "conditions": ["cold", "snow"], "henry": true },
+        { "text": "Shoes", "henry": true },
+        { "text": "Semi-dressy / dressy Shoes", "henry": true },
+        { "text": "Slippers", "henry": true }
+      ]
+    },
+    {
+      "id": "toiletry-bag",
+      "title": "The toiletry bag",
+      "items": [
+        { "text": "Medicine pill bottle" },
+        { "text": "Seizure medicine" },
+        { "text": "Deodorant 100ml" },
+        { "text": "Sunscreen", "conditions": ["warm", "swimming", "snow"] },
+        { "text": "Earplugs" },
+        { "text": "Ibuprofen / Acetaminophen" },
+        { "text": "Lip balm" },
+        { "text": "Bandaids" },
+        { "text": "Heartburn medicine" },
+        { "text": "Toothbrush & paste" },
+        { "text": "Razor" },
+        { "text": "Plastic bag for wet laundry", "conditions": ["swimming"] },
+        { "text": "Eyeshades" },
+        { "text": "Afrin" }
+      ]
+    },
+    {
+      "id": "misc",
+      "title": "Misc",
+      "items": [
+        { "text": "Portable Speaker", "conditions": ["driving"] },
+        { "text": "Roku Stick with Remote", "conditions": ["driving"] },
+        { "text": "Firewood / Axe", "conditions": ["driving"] },
+        { "text": "Pillow", "conditions": ["driving"] },
+        { "text": "Weed", "conditions": ["driving"] },
+        { "text": "PS5, cords and games", "conditions": ["driving"] },
+        { "text": "Playdate / Switch, cords and games" },
+        { "text": "Board games", "conditions": ["driving"] },
+        { "text": "Baseball Mitt", "conditions": ["driving"] }
+      ]
+    },
+    {
+      "id": "kitchen",
+      "title": "Kitchen stuff",
+      "conditions": ["driving"],
+      "items": [
+        { "text": "Tupperware, Thermometer" },
+        { "text": "Cocktail ingredients, Juicer, Jigger, Strainer" },
+        { "text": "Butter, Salt, Pepper" },
+        { "text": "Beer" }
+      ]
+    }
+  ]
+}

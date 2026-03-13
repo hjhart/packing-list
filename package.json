@@ -1,0 +1,15 @@
+{
+  "name": "packing-list",
+  "version": "1.0.0",
+  "description": "Interactive packing list generator",
+  "scripts": {
+    "start": "node generate.js"
+  },
+  "bin": {
+    "pack": "./generate.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "dotenv": "^17.3.1"
+  }
+}

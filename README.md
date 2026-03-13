@@ -1,105 +1,41 @@
-# The Open Source Packing List
+# Packing List
 
-Nothing beats [printing](https://raw.github.com/hjhart/packing-list/main/README.md)! **Suited for road trips where everything fits in the car**.
+An interactive CLI that generates a personalized, print-ready packing list PDF — one page, scaled to fill it.
 
-## When I leave
+## How it works
 
-- [ ] Pack food from fridge into backpack
-- [ ] Pack laptop and charger
-- [ ] Lock all windows/doors
+Answer a few questions in the terminal. The tool filters your packing list based on your answers, calls Claude to infer weather and whether you're traveling internationally, then opens a print-ready HTML page in your browser. Hit Cmd+P, save as PDF.
 
-## Before I leave
+## Setup
 
-- [ ] Check weather, pack accordingly
-- [ ] Give a spare key to whoever needs access to house
-- [ ] Charge phone battery / Kindle / Tablet / Camera
-- [ ] Clean up wallet. Check if **creditcard, ID is in there**.
-- [ ] Wallet check: Do you need a passport card? Do you need any other transit or access keys?
-- [ ] Clip nails, so you don't have to abroad
-- [ ] Set vacation responder on Slack / Email.
-- [ ] Download offline maps for destination
+```bash
+npm install
+export ANTHROPIC_API_KEY=your_key_here
+```
 
-## Grab from Downstairs
+## Usage
 
-- [ ] Sunglasses
-- [ ] Masks
-- [ ] Cash
-- [ ] Umbrella
-- [ ] Gloves
-- [ ] Warm hat
+```bash
+node generate.js
+```
 
-## Pack in the car
+You'll be asked:
 
-- [ ] Headphones
-- [ ] Hankerchief (quick dry rag)
-- [ ] Entry keys for vacation house
-- [ ] Mobile charger
-- [ ] Bag of Cords (Lightning, USB-C, mini USB, mobile power brick, power adapter)
-- [ ] Snacks for the road (PB&J, Apple, chips)
+- **Name of trip** — becomes the title on the PDF
+- **Month of trip** — use ↑↓ to select
+- **How many days** — shown in the header as "April 2026 – 7 days"
+- **Flying or driving** — drives which items appear (snacks, entry keys, PS5, kitchen stuff, baseball mitt, etc.)
+- **Packing for Henry?** — adds a second checkbox column for relevant items
+- **Swimming?** — adds swimwear, towels, goggles, sunscreen, etc.
 
-## The suitcase
+After you answer the transport question, Claude looks up the destination and infers weather (warm / cold / snowy / mixed) and whether it's international travel. This controls items like gloves, boots, sweaters, and the passport reminder.
 
-- [ ] Small backpack
-- [ ] Book / Kindle
-- [ ] iPad, HDMI cable
-- [ ] Pen & Paper
-- [ ] Business Cards
-- [ ] Present for host
-- [ ] Dopp kit
-- [ ] Belt
-- [ ] Baseball cap
-- [ ] Gym outfit
-- [ ] Rain Jacket
-- [ ] Swimming shorts / goggles / pool toys
-- [ ] Sweat pants
-- [ ] Swiss knife with some tools
-- [ ] Boxershorts
-- [ ] Socks
-- [ ] T-Shirts
-- [ ] Shorts
-- [ ] Sweaters
-- [ ] Pants
-- [ ] Beach Towels / Towels
-- [ ] Watch
-- [ ] Flipflops
-- [ ] Boots
-- [ ] Shoes
-- [ ] Semi-dressy / dressy Shoes
-- [ ] Slippers
+## Output
 
-## The toiletry bag
+A browser window opens with the list laid out in three columns, font scaled to fill exactly one letter-sized page. Print with Cmd+P → Save as PDF.
 
-- [ ] Medicine pill bottle
-- [ ] Seizure medicine
-- [ ] Deodorant 100ml
-- [ ] Sunscreen
-- [ ] Earplugs
-- [ ] Ibuprofen / Acetaminophen
-- [ ] Lip balm
-- [ ] Bandaids
-- [ ] Heartburn medicine
-- [ ] Toothbrush & paste
-- [ ] Razor
-- [ ] Plastic bag for wet laundry
-- [ ] Eyeshades
-- [ ] Afrin
+The footer shows the date generated and a version number that increments whenever the list itself changes.
 
-## Misc
+## The old-style list
 
-- [ ] Portable Speaker
-- [ ] Roku Stick with Remote
-- [ ] Firewood / Axe
-- [ ] Pillow
-- [ ] Weed
-- [ ] PS5, cords and games
-- [ ] Playdate / Switch, cords and games
-- [ ] Board games
-- [ ] Baseball Mitt
-
-## Kitchen stuff
-
-- [ ] Tupperware, Thermometer
-- [ ] Cocktail ingredients, Juicer, Jigger, Strainer,
-- [ ] Butter, Salt, Pepper
-- [ ] Beer
-
+[DEFAULT.md](DEFAULT.md) is the original hand-maintained markdown checklist — comprehensive, suited for road trips. Print it directly from GitHub if you want something simpler.
