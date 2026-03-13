@@ -1,5 +1,5 @@
 {
-  "version": 19,
+  "version": 20,
   "changelog": [
     {
       "version": 1,
@@ -149,6 +149,14 @@
       "changes": [
         "Removed Henry checkbox from Semi-dressy / dressy Shoes, Slippers, and Gym outfit"
       ]
+    },
+    {
+      "version": 20,
+      "date": "2026-03-13",
+      "changes": [
+        "Added 'Weigh bags if in doubt' to Before I leave (flying only)",
+        "Added 'Make sure carry-on fits inside luggage when not checking any' to Before I leave (flying only)"
+      ]
     }
   ],
   "questions": [
@@ -235,6 +243,18 @@
           "text": "Transit or access keys",
           "conditions": [
             "international",
+            "flying"
+          ]
+        },
+        {
+          "text": "Weigh bags if in doubt",
+          "conditions": [
+            "flying"
+          ]
+        },
+        {
+          "text": "Make sure carry-on fits inside luggage when not checking any",
+          "conditions": [
             "flying"
           ]
         },
