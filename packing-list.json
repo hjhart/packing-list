@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 19,
   "changelog": [
     {
       "version": 1,
@@ -133,6 +133,21 @@
         "Deodorant 100ml renamed to Deodorant",
         "Added Travel Cologne to toiletry bag",
         "Dopp kit renamed to Toiletry Bag"
+      ]
+    },
+    {
+      "version": 18,
+      "date": "2026-03-12",
+      "changes": [
+        "Added Floss to toiletry bag",
+        "Toothbrush & paste and Floss now have Henry checkbox"
+      ]
+    },
+    {
+      "version": 19,
+      "date": "2026-03-12",
+      "changes": [
+        "Removed Henry checkbox from Semi-dressy / dressy Shoes, Slippers, and Gym outfit"
       ]
     }
   ],
@@ -314,6 +329,14 @@
           "henry": true
         },
         {
+          "text": "Playdate / Switch, cords and games",
+          "henry": true
+        },
+        {
+          "text": "Art supplies",
+          "henry_only": true
+        },
+        {
           "text": "Snacks for the trip"
         }
       ]
@@ -329,10 +352,6 @@
         {
           "text": "Book / Kindle",
           "henry": true
-        },
-        {
-          "text": "Art supplies",
-          "henry_only": true
         },
         {
           "text": "Pen & Paper"
@@ -352,8 +371,7 @@
           "henry": true
         },
         {
-          "text": "Gym outfit",
-          "henry": true
+          "text": "Gym outfit"
         },
         {
           "text": "Rain Jacket",
@@ -430,12 +448,10 @@
           "henry": true
         },
         {
-          "text": "Semi-dressy / dressy Shoes",
-          "henry": true
+          "text": "Semi-dressy / dressy Shoes"
         },
         {
-          "text": "Slippers",
-          "henry": true
+          "text": "Slippers"
         }
       ]
     },
@@ -445,13 +461,6 @@
       "items": [
         {
           "text": "Medicine pill bottle"
-        },
-        {
-          "text": "Seizure medicine",
-          "henry_only": true,
-          "conditions": [
-            "family"
-          ]
         },
         {
           "text": "Deodorant"
@@ -483,7 +492,12 @@
           "text": "Heartburn medicine"
         },
         {
-          "text": "Toothbrush & paste"
+          "text": "Toothbrush & paste",
+          "henry": true
+        },
+        {
+          "text": "Floss",
+          "henry": true
         },
         {
           "text": "Razor"
@@ -499,6 +513,13 @@
         },
         {
           "text": "Afrin"
+        },
+        {
+          "text": "Seizure medicine",
+          "henry_only": true,
+          "conditions": [
+            "family"
+          ]
         }
       ]
     },
@@ -541,10 +562,6 @@
           "conditions": [
             "driving"
           ]
-        },
-        {
-          "text": "Playdate / Switch, cords and games",
-          "henry": true
         },
         {
           "text": "Board games",
