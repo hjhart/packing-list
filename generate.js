@@ -6,7 +6,6 @@ const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
 const Anthropic = require('@anthropic-ai/sdk');
-const OpenAI = require('openai');
 
 const DATA_FILE = path.join(__dirname, 'packing-list.json');
 const packingList = JSON.parse(fs.readFileSync(DATA_FILE, 'utf8'));
@@ -198,37 +197,6 @@ Respond with ONLY a raw JSON object — no markdown, no explanation — with the
   }
 }
 
-// --- Image generation ---
-
-async function generateTripImage(tripName, isFamily, hasHenry) {
-  try {
-    const openai = new OpenAI();
-
-    let people;
-    if (isFamily) {
-      people = 'a man in his late 30s with short brown hair buzzed on the sides, a petite woman with wavy brown hair and blue eyes, and a 10-year-old boy with brown hair and brown eyes';
-    } else if (hasHenry) {
-      people = 'a man in his late 30s with short brown hair buzzed on the sides and a 10-year-old boy with brown hair and brown eyes';
-    } else {
-      people = 'a man in his late 30s with short brown hair buzzed on the sides';
-    }
-
-    const imagePrompt = `A simple black and white line drawing or sketch of ${people} at ${tripName}. Clean, minimal, charming illustration with recognizable landmarks or scenery from ${tripName} in the background. Monochrome, sketch style, no color.`;
-
-    const response = await openai.images.generate({
-      model: 'dall-e-3',
-      prompt: imagePrompt,
-      n: 1,
-      size: '1024x1024',
-      response_format: 'b64_json',
-    });
-
-    return `data:image/png;base64,${response.data[0].b64_json}`;
-  } catch {
-    return null;
-  }
-}
-
 // --- CLI args ---
 
 function parseArgs() {
@@ -323,26 +291,35 @@ async function main() {
     }
   }
 
-  // Start image generation in parallel before debug question
-  process.stdout.write('Generating trip illustration...');
-  const imagePromise = generateTripImage(answers.trip_name, answers.family, henryMode);
-
   const debugMode = cli.debug !== undefined ? !!cli.debug : fullyAutomated ? false : await pickBoolean('Debug mode (show omitted items in red)?');
 
   rl.close();
 
-  const imageDataUrl = await imagePromise;
-  process.stdout.write('\r\x1b[K');
-
   const rainProbability = answers._inferred?.rain_probability ?? null;
   const snowProbability = answers._inferred?.snow_probability ?? null;
-  const html = generateHTML(answers, activeTags, henryMode, rainProbability, snowProbability, debugMode, imageDataUrl);
+  const html = generateHTML(answers, activeTags, henryMode, rainProbability, snowProbability, debugMode);
   const outFile = path.join(__dirname, 'output.html');
   fs.writeFileSync(outFile, html, 'utf8');
 
   console.log(`\nGenerated: ${outFile}`);
   console.log('Opening in browser — use Cmd+P to print to PDF.\n');
   execSync(`open "${outFile}"`);
+
+  if (debugMode) {
+    const parts = ['node generate.js'];
+    if (answers.trip_name) parts.push(`--destination "${answers.trip_name}"`);
+    if (answers.trip_start) {
+      const [month, year] = answers.trip_start.split(' ');
+      if (month) parts.push(`--month ${month}`);
+      if (year)  parts.push(`--year ${year}`);
+    }
+    if (answers.trip_days) parts.push(`--days ${answers.trip_days}`);
+    if (answers.family   != null) parts.push(answers.family   ? '--family'    : '--no-family');
+    if (answers.henry    != null) parts.push(answers.henry    ? '--henry'     : '--no-henry');
+    if (answers.swimming != null) parts.push(answers.swimming ? '--swimming'  : '--no-swimming');
+    parts.push('--debug');
+    console.log(`Repeat this run:\n  ${parts.join(' ')}\n`);
+  }
 }
 
 // --- Filtering ---
@@ -388,7 +365,7 @@ function formatWeatherSummary(inferred, rainProbability, snowProbability) {
   return parts.join(' \u00b7 ');
 }
 
-function generateHTML(answers, activeTags, henryMode, rainProbability, snowProbability, debugMode, imageDataUrl) {
+function generateHTML(answers, activeTags, henryMode, rainProbability, snowProbability, debugMode) {
   const tripName = (answers.trip_name || 'Packing List').toUpperCase();
   const tripMeta = formatTripMeta(answers);
   const weatherSummary = formatWeatherSummary(answers._inferred, rainProbability, snowProbability);
@@ -489,25 +466,11 @@ body {
 #header {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: baseline;
   border-bottom: 2.5px solid #111;
   padding-bottom: 0.08in;
   margin-bottom: 0.08in;
   flex-shrink: 0;
-}
-
-#trip-image {
-  width: 60px;
-  height: 60px;
-  object-fit: cover;
-  border-radius: 4px;
-  flex-shrink: 0;
-  margin-right: 0.1in;
-}
-
-#header-left {
-  display: flex;
-  align-items: center;
 }
 
 #trip-name {
@@ -617,10 +580,7 @@ h2 {
 <body>
 <div id="page">
   <div id="header">
-    <div id="header-left">
-      ${imageDataUrl ? `<img id="trip-image" src="${imageDataUrl}" alt="Trip illustration">` : ''}
-      <div id="trip-name">${tripName}</div>
-    </div>
+    <div id="trip-name">${tripName}</div>
     <div id="header-right">
       <div id="trip-meta">${tripMeta}</div>
       ${weatherSummary ? `<div id="weather-summary">${weatherSummary}</div>` : ''}
@@ -718,7 +678,8 @@ h2 {
     if (e.key === 'ArrowRight') applyFont(fi + 1);
   });
 
-  document.fonts.ready.then(() => applyFont(0));
+  const defaultFont = fonts.findIndex(f => f.name === 'Source Sans 3');
+  document.fonts.ready.then(() => applyFont(defaultFont));
 })();
 </script>
 </body>

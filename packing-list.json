@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "changelog": [
     {
       "version": 1,
@@ -125,6 +125,15 @@
       "changes": [
         "Playdate / Switch now has Henry checkbox"
       ]
+    },
+    {
+      "version": 17,
+      "date": "2026-03-12",
+      "changes": [
+        "Deodorant 100ml renamed to Deodorant",
+        "Added Travel Cologne to toiletry bag",
+        "Dopp kit renamed to Toiletry Bag"
+      ]
     }
   ],
   "questions": [
@@ -198,7 +207,7 @@
           "text": "Check weather, pack accordingly"
         },
         {
-          "text": "Give a spare key to whoever needs access to house",
+          "text": "Give a spare key to house-sitter",
           "conditions": [
             "family"
           ]
@@ -332,7 +341,7 @@
           "text": "Present for host"
         },
         {
-          "text": "Dopp kit",
+          "text": "Toiletry Bag",
           "henry": true
         },
         {
@@ -445,7 +454,10 @@
           ]
         },
         {
-          "text": "Deodorant 100ml"
+          "text": "Deodorant"
+        },
+        {
+          "text": "Travel Cologne"
         },
         {
           "text": "Sunscreen",
