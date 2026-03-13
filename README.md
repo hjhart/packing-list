@@ -10,8 +10,10 @@ Answer a few questions in the terminal. The tool filters your packing list based
 
 ```bash
 npm install
-export ANTHROPIC_API_KEY=your_key_here
+cp .env.template .env
 ```
+
+Then open `.env` and add your Anthropic API key. Get one at [console.anthropic.com](https://console.anthropic.com) → API Keys.
 
 ## Usage
 
