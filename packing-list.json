@@ -1,5 +1,5 @@
 {
-  "version": 20,
+  "version": 21,
   "changelog": [
     {
       "version": 1,
@@ -156,6 +156,13 @@
       "changes": [
         "Added 'Weigh bags if in doubt' to Before I leave (flying only)",
         "Added 'Make sure carry-on fits inside luggage when not checking any' to Before I leave (flying only)"
+      ]
+    },
+    {
+      "version": 21,
+      "date": "2026-04-27",
+      "changes": [
+        "Added 'Injectable medicines' to toiletry bag"
       ]
     }
   ],
@@ -481,6 +488,9 @@
       "items": [
         {
           "text": "Medicine pill bottle"
+        },
+        {
+          "text": "Injectable medicines"
         },
         {
           "text": "Deodorant"
