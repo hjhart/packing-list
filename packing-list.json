@@ -1,5 +1,5 @@
 {
-  "version": 21,
+  "version": 22,
   "changelog": [
     {
       "version": 1,
@@ -163,6 +163,13 @@
       "date": "2026-04-27",
       "changes": [
         "Added 'Injectable medicines' to toiletry bag"
+      ]
+    },
+    {
+      "version": 22,
+      "date": "2026-05-04",
+      "changes": [
+        "Added 'Saline nasal spray' to toiletry bag"
       ]
     }
   ],
@@ -543,6 +550,9 @@
         },
         {
           "text": "Afrin"
+        },
+        {
+          "text": "Saline nasal spray"
         },
         {
           "text": "Seizure medicine",
