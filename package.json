@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Interactive packing list generator",
   "scripts": {
-    "start": "node generate.js"
+    "start": "node generate.js",
+    "bikepack": "node bikepacking.js"
   },
   "bin": {
     "pack": "./generate.js"

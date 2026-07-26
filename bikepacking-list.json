@@ -1,0 +1,171 @@
+{
+  "version": 4,
+  "changelog": [
+    {
+      "version": 4,
+      "date": "2026-07-05",
+      "changes": "Remove coffee kit (doesn't drink coffee); simplify jersey line to synth t-shirts."
+    },
+    {
+      "version": 3,
+      "date": "2026-07-05",
+      "changes": "Remove front/rear lights (integrated into the Roadster V3); rename chamois cream to generic anti-chafe."
+    },
+    {
+      "version": 2,
+      "date": "2026-07-05",
+      "changes": "Add tie-down straps for securing luggage on the bike's rear rack."
+    },
+    {
+      "version": 1,
+      "date": "2026-07-05",
+      "changes": "Initial bikepacking list: ebike (Ride1Up Roadster V3), panniers, camping gear, optional cook kit."
+    }
+  ],
+  "questions": [
+    {
+      "id": "trip_name",
+      "text": "Destination?",
+      "type": "text"
+    },
+    {
+      "id": "trip_start",
+      "text": "Month of trip?",
+      "type": "month"
+    },
+    {
+      "id": "trip_days",
+      "text": "How many days?",
+      "type": "number"
+    },
+    {
+      "id": "cooking",
+      "text": "Packing a full cook kit?",
+      "type": "boolean",
+      "default": false,
+      "activateTagsIfTrue": ["cooking"]
+    }
+  ],
+  "sections": [
+    {
+      "id": "before-i-leave",
+      "title": "Before I leave",
+      "items": [
+        { "text": "Mount bike rack on car" },
+        { "text": "Charge ebike battery to 100%" },
+        { "text": "Charge power bank, headlamp" },
+        { "text": "Download offline maps + route (GPX)" },
+        { "text": "Check tire pressure, lube chain" },
+        { "text": "Test-fit loaded panniers on bike" },
+        { "text": "Check campsite reservations / permits" },
+        { "text": "Plan overnight charging — do campsites have outlets?" },
+        { "text": "Share route + itinerary with someone" },
+        { "text": "Vacation responder" },
+        { "text": "Lock all windows/doors" }
+      ]
+    },
+    {
+      "id": "bike-gear",
+      "title": "Bike & gear",
+      "items": [
+        { "text": "Ebike (Ride1Up Roadster V3)" },
+        { "text": "Ride1Up charger" },
+        { "text": "Panniers" },
+        { "text": "Helmet" },
+        { "text": "Bike lock + key" },
+        { "text": "Water bottles" },
+        { "text": "Spare tube(s) + tire levers" },
+        { "text": "Mini pump" },
+        { "text": "Patch kit" },
+        { "text": "Bike multitool" },
+        { "text": "Chain lube + rag" },
+        { "text": "Zip ties + duct tape" },
+        { "text": "Bungees / voile straps" },
+        { "text": "Tie-down straps (secure luggage on rear rack)" },
+        { "text": "Phone mount" }
+      ]
+    },
+    {
+      "id": "camp",
+      "title": "Camp",
+      "items": [
+        { "text": "Tent + footprint + stakes" },
+        { "text": "Sleeping bag" },
+        { "text": "Sleeping pad" },
+        { "text": "Pillow (down, or fleece in stuff sack)" },
+        { "text": "Headlamp" },
+        { "text": "Eye shade and earplugs" },
+        { "text": "Repair kit" },
+        { "text": "Camp towel (quick dry)" }
+      ]
+    },
+    {
+      "id": "food",
+      "title": "Food & water",
+      "items": [
+        { "text": "Clif bars / snacks" },
+        { "text": "Electrolytes" },
+        { "text": "Cash + card for restaurants along route" },
+        { "text": "Stove + fuel", "conditions": ["cooking"] },
+        { "text": "Matches / lighter", "conditions": ["cooking"] },
+        { "text": "Pot + pot scraper", "conditions": ["cooking"] },
+        { "text": "Spoon, cup", "conditions": ["cooking"] },
+        { "text": "Biodegradable soap", "conditions": ["cooking"] },
+        { "text": "Dinners + breakfasts", "conditions": ["cooking"] }
+      ]
+    },
+    {
+      "id": "clothes",
+      "title": "Clothes",
+      "items": [
+        { "text": "Padded bike shorts" },
+        { "text": "Synth t-shirts" },
+        { "text": "Rain jacket" },
+        { "text": "Down jacket / warm layer" },
+        { "text": "Off-bike camp clothes" },
+        { "text": "Sleepwear" },
+        { "text": "Wool socks" },
+        { "text": "Underwear" },
+        { "text": "Bike gloves" },
+        { "text": "Beanie + baseball cap" },
+        { "text": "Camp shoes / sandals" },
+        { "text": "Sunglasses" },
+        { "text": "Hi-vis vest or ankle strap" }
+      ]
+    },
+    {
+      "id": "toiletries",
+      "title": "Toiletries & health",
+      "items": [
+        { "text": "Toothbrush, toiletries" },
+        { "text": "Prescription medications" },
+        { "text": "Sunscreen" },
+        { "text": "Anti-chafe / chamois cream" },
+        { "text": "First-aid kit" },
+        { "text": "Bug spray" },
+        { "text": "Hand sanitizer + wipes" },
+        { "text": "TP / poop kit" }
+      ]
+    },
+    {
+      "id": "electronics",
+      "title": "Electronics",
+      "items": [
+        { "text": "Phone + charging cable" },
+        { "text": "Power bank (phone/lights only — won't charge the bike)" },
+        { "text": "Wall plug (for outlet charging at camp)" },
+        { "text": "Kindle" }
+      ]
+    },
+    {
+      "id": "wallet-docs",
+      "title": "Wallet & docs",
+      "items": [
+        { "text": "ID" },
+        { "text": "Credit card + cash" },
+        { "text": "Campsite reservations / permits" },
+        { "text": "Car key (stash safely for the ride back)" }
+      ]
+    }
+  ]
+}

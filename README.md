@@ -53,6 +53,19 @@ A browser window opens with the list laid out in three columns, font scaled to f
 
 The footer shows the date generated and a version number that increments whenever the list itself changes.
 
+## Bikepacking
+
+`bikepacking.js` is a simpler sibling script for multi-day ebike trips (Ride1Up Roadster V3, panniers, camping gear). It reads `bikepacking-list.json`, asks only destination / month / days / whether you're packing a full cook kit, and skips the Claude inference entirely.
+
+```bash
+node bikepacking.js
+
+# Or fully from flags
+node bikepacking.js --destination "San Juan Islands" --month August --year 2026 --days 3 --no-cooking
+```
+
+Boolean flags: `--cooking` / `--no-cooking`, `--debug`. Output goes to `bikepacking-output.html`.
+
 ## The old-style list
 
 [DEFAULT.md](DEFAULT.md) is the original hand-maintained markdown checklist — comprehensive, suited for road trips. Print it directly from GitHub if you want something simpler.
