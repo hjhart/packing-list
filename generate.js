@@ -459,8 +459,11 @@ body {
 }
 
 @media print {
-  body { background: white; padding: 0; }
-  #page { width: 100%; height: 100%; margin: 0; }
+  /* @page margin of 0.5in leaves exactly 7.5in x 10in printable on letter, which
+     is the size #page already is. Overriding to 100% resolves against an
+     auto-height body and spills a second, blank page — so pin it instead. */
+  html, body { background: white; margin: 0; padding: 0; display: block; height: auto; }
+  #page { width: 7.5in; height: 10in; margin: 0; }
 }
 
 #header {
@@ -654,20 +657,44 @@ h2 {
   const content = document.getElementById('content');
   const label   = document.getElementById('font-label');
 
+  const overflows = () => content.scrollWidth > content.clientWidth;
+
   function scale() {
     let lo = 5, hi = 18;
     while (hi - lo > 0.25) {
       const mid = (lo + hi) / 2;
       document.documentElement.style.fontSize = mid + 'px';
-      content.scrollWidth > content.clientWidth ? (hi = mid) : (lo = mid);
+      overflows() ? (hi = mid) : (lo = mid);
     }
     document.documentElement.style.fontSize = lo + 'px';
+
+    // The search assumes fit is monotonic in font size, which column layout
+    // does not guarantee. Verify the size we settled on and step down if the
+    // content still spills into a clipped third column.
+    while (lo > 5 && overflows()) {
+      lo -= 0.25;
+      document.documentElement.style.fontSize = lo + 'px';
+    }
   }
 
-  function applyFont(i) {
+  async function applyFont(i) {
     fi = (i + fonts.length) % fonts.length;
-    document.documentElement.style.setProperty('--font', fonts[fi].stack);
-    label.textContent = fonts[fi].name;
+    const font = fonts[fi];
+    document.documentElement.style.setProperty('--font', font.stack);
+    label.textContent = font.name;
+
+    // Measuring before the webfont loads sizes against fallback metrics, and
+    // the real font is usually wider — which overflows the page and silently
+    // clips the last items. Wait for the actual faces first.
+    try {
+      var spec = ' 16px "' + font.name + '"';
+      await Promise.all([
+        document.fonts.load('400' + spec),
+        document.fonts.load('700' + spec),
+        document.fonts.load('800' + spec),
+      ]);
+    } catch (e) { /* fall through and measure with whatever we have */ }
+
     scale();
   }
 

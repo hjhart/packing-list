@@ -1,0 +1,156 @@
+{
+  "version": 2,
+  "changelog": [
+    {
+      "version": 2,
+      "date": "2026-07-26",
+      "changes": "Merge in sister's list: life jacket, sleeping bag, pillow, goggles, separate swim/shower/face towels, Crocs, book, Switch/tablet, pants. Add Sleeping aboard section."
+    },
+    {
+      "version": 1,
+      "date": "2026-07-26",
+      "changes": "Initial boating list: multi-day aboard a powerboat as a guest, personal gear only."
+    }
+  ],
+  "title": "Boating",
+  "meta": "Multi-day aboard",
+  "sections": [
+    {
+      "id": "before-i-leave",
+      "title": "Before I leave",
+      "items": [
+        { "text": "Confirm departure time + marina/slip" },
+        { "text": "Ask what's aboard (bedding, life jackets)" },
+        { "text": "Ask about fresh water + power limits" },
+        { "text": "Check marine forecast + wind" },
+        { "text": "Download offline maps + entertainment" },
+        { "text": "Text someone the float plan" },
+        { "text": "Vacation responder" },
+        { "text": "Lock all windows/doors" }
+      ]
+    },
+    {
+      "id": "the-bag",
+      "title": "The bag",
+      "items": [
+        { "text": "Soft duffel — no hard suitcase" },
+        { "text": "Dry bag for electronics" },
+        { "text": "Laundry / wet bag for damp clothes" },
+        { "text": "Pack light — storage aboard is tight" }
+      ]
+    },
+    {
+      "id": "sleeping-aboard",
+      "title": "Sleeping aboard",
+      "items": [
+        { "text": "Sleeping bag" },
+        { "text": "Pillow" },
+        { "text": "Sleepwear" },
+        { "text": "Earplugs + eye shade" }
+      ]
+    },
+    {
+      "id": "on-deck",
+      "title": "On deck",
+      "items": [
+        { "text": "Life jacket" },
+        { "text": "Crocs or non-marking deck shoes" },
+        { "text": "Polarized sunglasses + retainer strap" },
+        { "text": "Sun hat with chin cord" },
+        { "text": "Reef-safe sunscreen (SPF 50)" },
+        { "text": "Lip balm with SPF" },
+        { "text": "Waterproof phone case / pouch" },
+        { "text": "Insulated water bottle" }
+      ]
+    },
+    {
+      "id": "swimming",
+      "title": "Swimming",
+      "items": [
+        { "text": "Swimsuit (x2 — one is always wet)" },
+        { "text": "Swim towel" },
+        { "text": "Goggles" }
+      ]
+    },
+    {
+      "id": "clothes",
+      "title": "Clothes",
+      "items": [
+        { "text": "T-shirts" },
+        { "text": "Shorts" },
+        { "text": "Pants" },
+        { "text": "Long-sleeve sun shirt (UPF)" },
+        { "text": "Sweatshirt / fleece — cold on the water" },
+        { "text": "Rain jacket / windbreaker" },
+        { "text": "Underwear" },
+        { "text": "Socks" },
+        { "text": "Beanie for early mornings" },
+        { "text": "One decent outfit for dinner ashore" }
+      ]
+    },
+    {
+      "id": "seasickness",
+      "title": "Seasickness & health",
+      "items": [
+        { "text": "Dramamine — take before, not after" },
+        { "text": "Ginger chews" },
+        { "text": "Sea-Bands" },
+        { "text": "Prescription medications" },
+        { "text": "First-aid basics + blister care" },
+        { "text": "Aloe / after-sun" },
+        { "text": "Bug spray for evenings at anchor" }
+      ]
+    },
+    {
+      "id": "toiletries",
+      "title": "Toiletries",
+      "items": [
+        { "text": "Toothbrush, toiletries" },
+        { "text": "Shower towel" },
+        { "text": "Face towel / washcloth" },
+        { "text": "Biodegradable soap + shampoo" },
+        { "text": "Dry shampoo (showers may be rationed)" },
+        { "text": "Body wipes" },
+        { "text": "Hand sanitizer" },
+        { "text": "Hair ties" }
+      ]
+    },
+    {
+      "id": "electronics",
+      "title": "Electronics & downtime",
+      "items": [
+        { "text": "Phone + charging cable" },
+        { "text": "Switch / tablet + charger" },
+        { "text": "Book" },
+        { "text": "Kindle" },
+        { "text": "Power bank" },
+        { "text": "12V / USB car-style adapter" },
+        { "text": "Headlamp (red light mode)" },
+        { "text": "Waterproof speaker" },
+        { "text": "Camera + spare battery" }
+      ]
+    },
+    {
+      "id": "good-guest",
+      "title": "Good guest",
+      "items": [
+        { "text": "Gift for the host" },
+        { "text": "Drinks / snacks to contribute" },
+        { "text": "Cash to chip in on fuel" },
+        { "text": "Deck of cards / small game" },
+        { "text": "Own trash bag — pack it out" }
+      ]
+    },
+    {
+      "id": "wallet-docs",
+      "title": "Wallet & docs",
+      "items": [
+        { "text": "ID" },
+        { "text": "Credit card + cash" },
+        { "text": "Passport (if crossing to Canada)" },
+        { "text": "Fishing license" },
+        { "text": "Car key (leave a spare with someone)" }
+      ]
+    }
+  ]
+}

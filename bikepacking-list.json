@@ -3,22 +3,22 @@
   "changelog": [
     {
       "version": 4,
-      "date": "2026-07-05",
+      "date": "2026-07-26",
       "changes": "Remove coffee kit (doesn't drink coffee); simplify jersey line to synth t-shirts."
     },
     {
       "version": 3,
-      "date": "2026-07-05",
+      "date": "2026-07-26",
       "changes": "Remove front/rear lights (integrated into the Roadster V3); rename chamois cream to generic anti-chafe."
     },
     {
       "version": 2,
-      "date": "2026-07-05",
+      "date": "2026-07-26",
       "changes": "Add tie-down straps for securing luggage on the bike's rear rack."
     },
     {
       "version": 1,
-      "date": "2026-07-05",
+      "date": "2026-07-26",
       "changes": "Initial bikepacking list: ebike (Ride1Up Roadster V3), panniers, camping gear, optional cook kit."
     }
   ],

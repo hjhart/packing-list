@@ -66,6 +66,16 @@ node bikepacking.js --destination "San Juan Islands" --month August --year 2026 
 
 Boolean flags: `--cooking` / `--no-cooking`, `--debug`. Output goes to `bikepacking-output.html`.
 
+## Boating
+
+`boating.js` is the simplest of the three — no questions, no flags. It reads `boating-list.json` and opens the printable page straight away. The list is personal gear for a multi-day trip aboard someone else's powerboat: soft duffel, non-marking shoes, seasickness kit, sun protection, and host-gift reminders.
+
+```bash
+node boating.js
+```
+
+Output goes to `boating-output.html`. Edit the items in `boating-list.json`.
+
 ## The old-style list
 
 [DEFAULT.md](DEFAULT.md) is the original hand-maintained markdown checklist — comprehensive, suited for road trips. Print it directly from GitHub if you want something simpler.

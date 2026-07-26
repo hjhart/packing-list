@@ -4,7 +4,8 @@
   "description": "Interactive packing list generator",
   "scripts": {
     "start": "node generate.js",
-    "bikepack": "node bikepacking.js"
+    "bikepack": "node bikepacking.js",
+    "boat": "node boating.js"
   },
   "bin": {
     "pack": "./generate.js"
