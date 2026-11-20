@@ -1,5 +1,5 @@
 {
-  "version": 22,
+  "version": 23,
   "changelog": [
     {
       "version": 1,
@@ -170,6 +170,13 @@
       "date": "2026-05-04",
       "changes": [
         "Added 'Saline nasal spray' to toiletry bag"
+      ]
+    },
+    {
+      "version": 23,
+      "date": "2026-11-20",
+      "changes": [
+        "Added 'UniFi portable router' to small bag for every trip"
       ]
     }
   ],
@@ -361,6 +368,9 @@
         {
           "text": "Wall wart",
           "henry": true
+        },
+        {
+          "text": "UniFi portable router"
         },
         {
           "text": "Playdate / Switch, cords and games",
